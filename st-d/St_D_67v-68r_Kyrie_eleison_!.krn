@@ -1,0 +1,73 @@
+!!!OTL: Kyrie eleison
+**kern
+*staff1
+=1-
+*clefF4
+*k[]
+1A
+2F\
+1D
+2AA/
+1E
+0AA;
+=2
+1E
+2G\
+2D\
+4C/
+4D\
+4E\
+4F\
+1G
+0C;
+=3
+!!linebreak:original
+1c
+2G\
+1A
+2D\
+0E;
+=4
+1C
+2G\
+1A
+2D\
+1E
+0AA;
+=5
+!!linebreak:original
+1E
+0E
+=6
+1AA
+1E;
+=7
+1C
+2G\
+1A
+2D\
+1E
+0AA
+==
+*-
+!!title: @{OTL}, @{GTL}, ed. @{ENC}
+!!!pag:
+!!!GTL: Hymnbook D
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2015-0m-dd
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F
+!!!COM: Anonim
+!!!CDT: [?]
+!!!TXO: Polish
+!!!ODT: 
+!!!GTL: Hymnbook D
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	1

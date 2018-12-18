@@ -1,0 +1,128 @@
+!!!OTL: Puer natus est nobis
+**kern
+*staff1
+=1-
+*clefC4
+*k[b-]
+!LO:TX:Y=126:t=P
+1B-
+2F/
+2F/
+1B-
+1B-
+2F/
+2G/
+1F
+1G
+=2
+1B-
+1F
+1.G
+2G/
+1F
+1B-
+=3
+!!linebreak:original
+1.B-
+2F/
+2B-\
+2F/
+1F
+1G
+=4
+!LO:TX:Y=-35:t=P
+1B-
+2F/
+2F/
+1G
+1F
+=5
+!LO:TX:Y=-37:t=P
+1B-
+2F/
+2F/
+1G
+1F
+=6
+1.B-
+2B-\
+2c\
+2B-\
+1F
+1G
+=7
+!!linebreak:original
+!LO:TX:Y=-36:t=P
+1.B-
+2F/
+2G/
+2G/
+1F
+1G
+=8
+1.B-
+2B-\
+1c
+1G
+1.F
+2F/
+=9
+!LO:TX:Y=-197:t=P
+0B-
+0F
+0B-
+0F
+=10
+!!linebreak:original
+*met(c|)
+*M2/2
+!LO:TX:Y=-46:t=P
+1B-
+2G/
+2F/
+=11
+2G/
+2F/
+2G/
+2F/
+=12
+!LO:TX:Y=-46:t=P
+1F
+2G/
+2F/
+=13
+2B-\
+2F/
+1G
+=14
+!LO:TX:Y=-42:t=P
+1F
+1G
+=15
+1B-
+0F
+=16
+0F
+==
+*-
+!!title: @{OTL}, @{GTL}, ed. @{ENC}
+!!!pag:
+!!!GTL: Hymnbook D
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2015-0m-dd
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F
+!!!COM: Anonim
+!!!CDT: [?]
+!!!TXO: Polish
+!!!ODT: 
+!!!GTL: Hymnbook D
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	1

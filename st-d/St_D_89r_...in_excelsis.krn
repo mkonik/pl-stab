@@ -1,0 +1,169 @@
+!!!OTL: ...in excelsis
+**kern
+*staff1
+=1-
+*clefF4
+*k[b-]
+*M3/2
+0G
+1C
+=2
+0D
+1D
+=3
+1BB-
+1BB-
+1BB-
+=4
+0C
+1C
+=5
+0D
+1GG
+=6
+*met(c|)
+*M2/2
+1.C
+2BB-/
+0C
+0GG;
+=7
+!!linebreak:original
+2G\
+2G\
+1G
+2E-\
+2BB-/
+1F
+=8
+!LO:TX:Y=-40:t=P
+!LO:TX:Y=-40:t=P
+2BB-/
+2F\
+2F\
+2G\
+2D\
+2E-\
+1D
+=9
+!LO:TX:Y=-40:t=P
+2GG/
+2G\
+2F#\
+2G\
+2C/
+2C/
+1D
+=10
+0GG
+!!linebreak:original
+=11
+!LO:TX:Y=-39:t=P
+1.G
+2G\
+=12
+!LO:TX:Y=-40:t=P
+!LO:TX:Y=-37:t=P
+!LO:TX:Y=120:t=P
+1G
+2D\
+2G\
+=13
+!LO:TX:Y=-38:t=P
+1G
+2F\
+2BB-/
+=14
+!LO:TX:Y=-39:t=P
+2F\
+2F\
+1G
+=15
+!LO:TX:Y=-38:t=P
+1D
+1.F
+2F\
+2G\
+2C/
+=16
+!LO:TX:Y=-37:t=P
+!LO:TX:Y=-35:t=P
+1D
+1GG
+1.BB-
+2BB-/
+=17
+2C/
+2C/
+0D
+0GG
+=18
+!!linebreak:original
+*clefC4
+1.B-
+2B-\
+2F/
+2F/
+1G
+1F
+=19
+2B-\
+2B-\
+2F/
+2G/
+1D
+1G
+=20
+1.B-
+2B-\
+1F
+1G
+1F
+1G
+=21
+1.C
+2C/
+0G
+=22
+!!linebreak:original
+0B-
+0F
+2G/
+2G/
+1A
+1D
+=23
+1B-
+2F/
+2G/
+1F
+1G
+=24
+1.B-
+2F/
+1F
+0B-
+0F
+==
+*-
+!!title: @{OTL}, @{GTL}, ed. @{ENC}
+!!!pag:
+!!!GTL: Hymnbook D
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2015-0m-dd
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F
+!!!COM: Anonim
+!!!CDT: [?]
+!!!TXO: Polish
+!!!ODT: 
+!!!GTL: Hymnbook D
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	1

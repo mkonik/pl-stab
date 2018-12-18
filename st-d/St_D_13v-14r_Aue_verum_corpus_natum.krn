@@ -1,0 +1,114 @@
+!!!OTL: Aue verum corpus natum
+**kern
+*staff1
+=1-
+*clefC4
+*k[]
+*met(c|)
+*M2/2
+2c\
+2G/
+1c
+1F
+2c\
+2c\
+=2
+1G
+1C
+=3
+2c\
+2c\
+4F/
+4G/
+4A\
+4B\
+=4
+2c\
+2B\
+2A\
+2F/
+1G
+1C;
+!!linebreak:original
+=5:|!
+2G/
+2D/
+1G
+1C
+2G/
+2G/
+=6
+1D
+1G
+=7
+!LO:TX:Y=-37:t=P
+2c\
+2c\
+4F/
+4G/
+4A\
+4B\
+=8
+2c\
+2B\
+2A\
+2F/
+1G
+1C;
+!!linebreak:original
+=9:|!
+1C
+1F
+1C
+=10
+1C
+1F
+1C
+=11
+!LO:TX:Y=-41:t=P
+1C
+1F
+1C
+=12
+!LO:TX:Y=-41:t=P
+0c
+1A
+=13
+!!linebreak:original
+1F
+2F/
+2G/
+0D
+1G
+=14
+!LO:TX:Y=-200:t=P
+1.C
+2C/
+1F
+1E
+=15
+0F
+0C
+==
+*-
+!!title: @{OTL}, @{GTL}, ed. @{ENC}
+!!!pag:
+!!!GTL: Hymnbook D
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2015-0m-dd
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F
+!!!COM: Anonim
+!!!CDT: [?]
+!!!TXO: Polish
+!!!ODT: 
+!!!GTL: Hymnbook D
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	1

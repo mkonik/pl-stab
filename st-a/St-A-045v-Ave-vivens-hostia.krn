@@ -1,0 +1,97 @@
+!!!COM: Anonim
+!!!CDT: [?]
+!!!OTL@@LAT: Aue viuens hostia
+!!!TXO: Latin
+!!!ODT: 
+!!!GTL: Hymnbook A
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	1
+**kern
+*staff1
+*I"[Canto]
+*oclefC1
+*clefG2
+*k[]
+!*met(c|)
+*M2/1
+=-
+!LO:TX:Y=0:t=no meter indication
+1f
+1e
+2f
+2a
+2g
+2f
+2e
+2f
+1g
+2a
+2a
+2g
+2f
+2g
+1f
+2e
+0f
+=-
+2e
+2f
+2g
+2b
+2g
+2a
+1b
+2a
+2f
+2g
+2a
+2g
+2e
+!LO:TX:Y=0:t=p. 46r
+1f
+0e
+=-
+2f
+2e
+2a
+2b
+2f
+2e
+1f
+2e
+2f
+2g
+1a
+1g
+2f
+0g
+=-
+2e
+2f
+2e
+2c
+2e
+2f
+2e
+2f
+2g
+1a
+1f
+2e
+0f
+==
+*-
+!!title: @{OTL}, @{GTL}: @{pag}, ed. @{ENC}
+!!!pag: pp. 45v-46r
+!!!GTL: Hymnbook A
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2015-03-05
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F

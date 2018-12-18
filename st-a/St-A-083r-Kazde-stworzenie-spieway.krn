@@ -1,0 +1,98 @@
+!!!COM: Anonim
+!!!CDT: [?]
+!!!OTL@@POL: Kázde stworzenie spiewaÿ
+!!!TXO: Polish
+!!!ODT: 
+!!!GTL: Hymnbook A
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	1
+**kern
+*staff1
+*I"[Canto]
+=1-
+*oclefG2
+*clefG2
+!*k[b-]
+!*met(c|)
+*M2/1
+2dd
+2ff
+2.ee
+4ff
+=-
+2dd
+1dd
+2cc
+=-
+4r
+4ee
+2ff
+2dd
+[2ee
+=-
+2ee]
+1ee
+2r
+=-
+2cc
+1dd
+2r
+=-
+2dd
+1cc#
+2r
+=-
+2ff
+2ff
+4ff
+2ee
+4dd
+=-
+2cc
+4dd
+2ee
+4dd
+[2cc
+=-
+2cc]
+1cc
+2r
+=-
+2ff
+2ff
+1ee
+=-
+2dd
+1cc
+2r
+=-
+2dd
+2ee
+4ff
+2ee
+4dd
+=-
+2cc
+2r
+2ff
+2dd
+=-
+2dd
+1cc
+2dd;
+==
+*-
+!!title: @{OTL}, @{GTL}: @{pag}, ed. @{ENC}
+!!!pag: p. 83r
+!!!GTL: Hymnbook A
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2015-04-15
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F

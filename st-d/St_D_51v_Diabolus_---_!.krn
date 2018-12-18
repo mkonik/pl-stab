@@ -1,0 +1,125 @@
+!!!OTL: Diabolus 
+**kern
+*staff1
+=1-
+*clefF4
+*k[b-]
+*met(c|)
+*M2/2
+0r
+=2
+0r
+=3
+1F
+1F
+=4
+1F
+1F
+=5
+0r
+=6
+0r
+=7
+!!linebreak:original
+1F
+2C/
+=8
+1F
+2F\
+=9
+1BB-
+2BB-/
+=10
+!LO:TX:Y=-37:t=P
+1F
+2F\
+=11
+1F
+2C/
+=12
+1F
+2F\
+=13
+1BB-
+2BB-/
+=14
+*met(c|)
+*M2/2
+1F
+2F\
+2r
+=15
+!!linebreak:original
+1F
+1F
+=16
+1F
+1F
+=17
+1F
+1F
+1F
+=18
+0r
+=19
+0r
+=20
+1F
+1F
+=21
+1F
+1F
+=22
+0r
+=23
+0r
+=24
+!!linebreak:original
+1F
+2C/
+=25
+!LO:TX:Y=-38:t=P
+1F
+2F\
+=26
+1BB-
+2BB-/
+=27
+1F
+2F\
+=28
+1F
+2C/
+=29
+1F
+2F\
+=30
+1BB-
+2BB-/
+=31
+0F
+=32
+0F
+==
+*-
+!!title: @{OTL}, @{GTL}, ed. @{ENC}
+!!!pag:
+!!!GTL: Hymnbook D
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2015-0m-dd
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F
+!!!COM: Anonim
+!!!CDT: [?]
+!!!TXO: Polish
+!!!ODT: 
+!!!GTL: Hymnbook D
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	1

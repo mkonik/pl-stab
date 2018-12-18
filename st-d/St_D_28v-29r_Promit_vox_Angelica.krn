@@ -1,0 +1,110 @@
+!!!OTL: Promit vox Angelica
+**kern
+*staff1
+=1-
+*clefF4
+*k[]
+*met(c|)
+*M2/2
+1C
+2G\
+=2
+1C
+2C/
+=3
+1G
+2G\
+=4
+1C
+2c\
+=5
+1F
+2B-\
+=6
+1A
+2F\
+=7
+1G
+0C
+!!linebreak:original
+=8
+1E
+2A\
+=9
+1G
+2A\
+=10
+2.B\
+4c\
+2d\
+=11
+1c
+2F\
+=12
+1G
+0C
+=13
+!!linebreak:original
+1G
+2A\
+=14
+1G
+2C/
+=15
+1G
+2A\
+=16
+2G\
+4F\
+4E\
+2D\
+=17
+2E\
+2F\
+2G\
+=18
+0C
+!!linebreak:original
+=19
+1G
+2A\
+=20
+1G
+2C/
+=21
+1G
+2A\
+=22
+2G\
+4F\
+4E\
+2D\
+=23
+2E\
+2F\
+2G\
+=24
+0C
+==
+*-
+!!title: @{OTL}, @{GTL}, ed. @{ENC}
+!!!pag:
+!!!GTL: Hymnbook D
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2015-0m-dd
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F
+!!!COM: Anonim
+!!!CDT: [?]
+!!!TXO: Polish
+!!!ODT: 
+!!!GTL: Hymnbook D
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	1

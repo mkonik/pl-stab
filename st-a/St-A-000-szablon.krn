@@ -1,0 +1,34 @@
+!!!COM: Anonim
+!!!CDT: [?]
+!!!OTL@POL:
+!!!TXO: Polish
+!!!ODT: 
+!!!GTL: Hymnbook A
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	1
+**kern
+*staff1
+*I"[Canto]
+*oclefC1
+*clefG2
+!*k[b-]
+!*met(c|)
+!*M2/2
+=
+
+==
+*-
+!!title: @{OTL}, @{GTL}: @{RDF*pag}, ed. @{ENC}
+!!!RDF*pag:
+!!!GTL: Hymnbook A
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2015-04
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F

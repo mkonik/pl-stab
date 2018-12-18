@@ -1,0 +1,1761 @@
+!!!!SEGMENT: St-B-013v-Adonay-Iesu.krn
+!!!COM: Anonim
+!!!CDT: [?]
+!!!OTL: Adonaÿ Iesu optime
+!!!TXO: Latin
+!!!ODT: 
+!!!GTL: Hymnbook B
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	1
+!!!RDF*pag: 13v
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: dr Marcin Konik
+!!!END: 2015-04/2015-05
+!!!EED: dr Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!title: @{OTL}, @{GTL}: p. @{RDF*pag}, ed. @{ENC}
+!!muse2ps: z14jc180F
+**kern
+*staff1
+*I"[Canto]
+*oclefC1
+*clefG2
+*met(c|)
+*M2/1
+=-
+2g
+2dd
+2dd
+2b
+2dd
+2dd
+2dd
+2b
+2g
+2g
+2a
+2a
+0b;
+2b
+2b
+2dd
+2b
+!!Original linebreak
+=-
+2cc
+4b
+4a
+2b
+2b
+2b
+2g
+2f
+2f
+0g;
+1g
+1g
+1g
+1g
+2f
+2g
+1d
+2g
+2f
+0g;
+2g
+2f
+2g
+!!Original linebreak
+=-
+2a
+2g
+2f
+2g
+2a
+2g
+2f
+0g;
+1g
+1g
+2g
+2g
+2a
+2a
+2g
+2a
+2g
+2a
+!!Original linebreak
+=-
+2a
+2g
+2a
+2a
+2g
+2.a
+4a
+2.g
+4g
+2a
+4a
+4a
+0b
+1b
+0bl
+==
+*-
+!!!!SEGMENT: St-B-014v-Weszoly-nam.krn
+!!!COM: Anonim
+!!!CDT: [?]
+!!!OTL: Weszołÿ nąm weszołÿ
+!!!TXO: Polish
+!!!ODT: 
+!!!GTL: Hymnbook B
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	1
+!!!RDF*pag: 14v
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: dr Marcin Konik
+!!!END: 2015-04/2015-05
+!!!EED: dr Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!title: @{OTL}, @{GTL}: @{RDF*pag}, ed. @{ENC}
+!!muse2ps: z14jc180F
+**kern
+*staff1
+*I"[Canto]
+*oclefC1
+*clefG2
+*M3/1
+=
+!LO:TX:a:t=no meter indication
+0a
+1g
+0a
+1b
+0cc
+1b
+0a
+1g
+0cc
+1cc
+1b
+1a
+1g
+0a
+==
+*-
+!!!!SEGMENT: St-B-015r-Wychwalaymysz.krn
+!!!COM: Anonim
+!!!CDT: [?]
+!!!OTL: Wÿchwalaÿmÿsz wÿsławiaimÿsz wsÿsczÿ
+!!!TXO: Polish
+!!!ODT: 
+!!!GTL: Hymnbook B
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	1
+!!!RDF*pag: 15r
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: dr Marcin Konik
+!!!END: 2015-04/2015-05
+!!!EED: dr Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!title: @{OTL}, @{GTL}: @{RDF*pag}, ed. @{ENC}
+!!muse2ps: z14jc180F
+**kern
+*staff1
+*I"[Canto]
+*oclefC1
+*clefG2
+*M3/1
+=-
+!LO:TX:a:t=no meter indication
+0cc
+1b
+0cc
+1dd
+0ee
+1dd
+0cc
+1b
+0cc
+1cc
+1b
+1a
+1g
+0a
+!!Original linebreak
+=-
+0cc
+1b
+0cc
+1dd
+0ee
+1dd
+0c
+1b
+0cc
+1cc
+1b
+1a
+1g
+0al
+==
+*-
+!!!!SEGMENT: St-B-017r-Archanyol-gabryel.krn
+!!!COM: Anonim
+!!!CDT: [?]
+!!!OTL: Archanÿol gabrÿel
+!!!TXO: Polish
+!!!ODT: 
+!!!GTL: Hymnbook B
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	1
+!!!RDF*pag: 17r-18r
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: dr Marcin Konik
+!!!END: 2015-04/2015-05
+!!!EED: dr Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!title: @{OTL}, @{GTL}: p. @{RDF*pag}, ed. @{ENC}
+!!muse2ps: z14jc180F
+**kern
+*staff1
+*I"[Canto]
+*oclefG2
+*clefG2
+*k[b-]
+!*met(c|)
+*M2/1
+=-
+!LO:TX:a:t=no meter indication
+2g
+2g
+2b-
+2b-
+1g
+1a
+1g
+2a
+2.b-
+4cc
+1dd
+2cc
+1dd
+2dd
+2dd
+2cc
+1b-
+1a
+1b-
+1g
+2b-
+1a
+=-
+!!Original pagebreak
+1g
+2f
+1g
+2dd
+2dd
+2dd
+2dd
+1dd
+1dd
+1g
+2a
+2.b-
+4cc
+1dd
+2cc
+1dd
+2dd
+2dd
+=-
+!!Original pagebreak
+2cc
+1b-
+2a
+1b-
+1g
+2b-
+1a
+1g
+2f
+0gl
+==
+*-
+!!!!SEGMENT: St-B-018v-Po-upadku-czlowieka.krn
+!!!COM: Anonim
+!!!CDT: [?]
+!!!OTL: Po upadku człowieka grzesznego
+!!!TXO: Polish
+!!!ODT: 
+!!!GTL: Hymnbook B
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	1
+!!!RDF*pag: 18v-19r
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: dr Marcin Konik
+!!!END: 2015-04/2015-05
+!!!EED: dr Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!title: @{OTL}, @{GTL}: p. @{RDF*pag}, ed. @{ENC}
+!!muse2ps: z14jc180F
+**kern
+*staff1
+*I"[Canto]
+*oclefC1
+*clefG2
+*k[b-]
+*M2/1
+=-
+!LO:TX:a:t=no meter indication
+2a
+2a
+2a
+2b-
+2a
+2a
+2g
+1f
+2e
+1f
+2a
+2f
+2g
+2a
+2b-
+2a
+2dd
+1cc
+2b-
+1cc
+=-
+!!Original pagebreak
+2a
+2a
+2a
+2b-
+2a
+2a
+2g
+1f
+2e
+0fl
+==
+*-
+!!!!SEGMENT: St-B-019v-Imperatrix-virgo.krn
+!!!COM: Anonim
+!!!CDT: [?]
+!!!OTL: Imperatrix virgo gloriosa
+!!!TXO: Latin
+!!!ODT: 
+!!!GTL: Hymnbook B
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	1
+!!!RDF*pag: 19v-20r
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: dr Marcin Konik
+!!!END: 2015-04/2015-05
+!!!EED: dr Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!title: @{OTL}, @{GTL}: p. @{RDF*pag}, ed. @{ENC}
+!!muse2ps: z14jc180F
+**kern
+*staff1
+*I"[Canto]
+*oclefC1
+*clefG2
+*k[b-]
+!*met(c|)
+*M2/1
+=-
+!LO:TX:a:t=no meter indication
+1f
+1e
+2.d
+4e
+2f
+2g
+1.a
+2g
+2f
+2e
+2f
+2d
+2f
+2e
+2f
+2g
+1e
+2c
+2d
+1e;
+2b-
+2cc
+2dd
+=-
+!!Original pagebreak
+2cc
+1b-
+1cc
+2b-
+2g
+2a
+2b-
+2cc
+1a
+2g
+1a
+2cc
+2b-
+2cc
+2a
+1g
+1e
+2f
+2e
+2d
+2f
+2e
+1d
+2c
+1d
+2f
+2e
+2f
+2g
+1e
+2c
+2d
+0e;
+==
+*-
+!!!!SEGMENT: St-B-020v-Salve-Regina.krn
+!!!COM: Anonim
+!!!CDT: [?]
+!!!OTL: Salve Regina stella matutina
+!!!TXO: Latin
+!!!ODT: 
+!!!GTL: Hymnbook B
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	1
+!!!RDF*pag: 20v-21r
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: dr Marcin Konik
+!!!END: 2015-04/2015-05
+!!!EED: dr Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!title: @{OTL}, @{GTL}: p. @{RDF*pag}, ed. @{ENC}
+!!muse2ps: z14jc180F
+**kern
+*staff1
+*I"[Canto]
+*oclefG2
+*clefG2
+*M2/1
+=-
+!LO:TX:a:t=no meter indication
+2.dd
+4cc#
+4dd
+4ee
+2.ff
+4ee
+2dd
+1dd
+1cc#
+2dd
+2cc#
+2dd
+2cc#
+2.dd
+4dd
+2dd
+2cc
+1a
+1b
+2r
+2dd
+2cc#
+=-
+!!Original pagebreak
+2dd
+2.ee
+4dd
+2ee
+2ff
+2dd
+2cc#
+1.dd
+4cc
+4b
+1cc#
+0ddl
+==
+*-
+!!!!SEGMENT: St-B-021v-Zdrowas-od-Anyola.krn
+!!!COM: Anonim
+!!!CDT: [?]
+!!!OTL: Zdrowaś od Anyoła
+!!!TXO: Polish
+!!!ODT: 
+!!!GTL: Hymnbook B
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	1
+!!!RDF*pag: 21v-22r
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: dr Marcin Konik
+!!!END: 2015-04/2015-05
+!!!EED: dr Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!title: @{OTL}, @{GTL}: p. @{RDF*pag}, ed. @{ENC}
+!!muse2ps: z14jc180F
+**kern
+*staff1
+*I"[Canto]
+*oclefC1
+*clefG2
+*M2/1
+=-
+!LO:TX:a:t=no meter indication
+1d
+1d
+1e
+1.f
+2e
+1d
+0c
+1e
+1e
+2c
+2d
+2e
+2f
+1e
+0d
+1c
+0d
+1f
+1e
+1f
+=-
+!!Original pagebreak
+0a
+1g
+0a
+0f
+0e
+1e
+0d
+0c
+0dl
+==
+*-
+!!!!SEGMENT: St-B-022v-O-matko-milosciwa.krn
+!!!COM: Anonim
+!!!CDT: [?]
+!!!OTL: O matko miłościwa
+!!!TXO: Polish
+!!!ODT: 
+!!!GTL: Hymnbook B
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	1
+!!!RDF*pag: 22v-23r
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: dr Marcin Konik
+!!!END: 2015-04/2015-05
+!!!EED: dr Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!title: @{OTL}, @{GTL}: p. @{RDF*pag}, ed. @{ENC}
+!!muse2ps: z14jc180F
+**kern
+*staff1
+*I"[Canto]
+*oclefC1
+*clefG2
+*met(c|)
+*M2/1
+=-
+1d
+1d
+2.c
+4d
+2e
+1d
+2c
+1d
+2d
+1e
+2f
+2d
+1d
+2c
+1d
+1d
+2f
+=-
+!!Original pagebreak
+1e
+1d
+2c
+1d
+2f
+1f
+2f
+1f
+2f
+1e
+1d
+2c
+0dl
+==
+*-
+!!!!SEGMENT: St-B-023v-Ave-stella-matutina.krn
+!!!COM: Anonim
+!!!CDT: [?]
+!!!OTL: Ave stella matutina
+!!!TXO: Latin
+!!!ODT: 
+!!!GTL: Hymnbook B
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	1
+!!!RDF*pag: 23v-24r
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: dr Marcin Konik
+!!!END: 2015-04/2015-05
+!!!EED: dr Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!title: @{OTL}, @{GTL}: p. @{RDF*pag}, ed. @{ENC}
+!!muse2ps: z14jc180F
+**kern
+*staff1
+*I"[Canto]
+*oclefC1
+*clefG2
+*met(c|)
+*M2/1
+=-
+2r
+2a
+2a
+2a
+1g#
+2a
+2cc
+4b
+4a
+2b
+1cc
+1cc
+2cc
+1cc
+1dd
+1cc
+4b
+4a
+1b
+1cc
+=-
+!!Original pagebreak
+1cc
+2b
+1a
+2a
+1g#
+1cc
+2b
+1a
+2a
+1g#
+2r
+2b
+2a
+2b
+1cc
+2a
+1a
+2g#
+1a
+1a
+1a
+0al
+==
+*-
+!!!!SEGMENT: St-B-024v-Z-wielmozny-rady.krn
+!!!COM: Anonim
+!!!CDT: [?]
+!!!OTL: Z wielmożnÿ radÿ Troÿcze
+!!!TXO: Polish
+!!!ODT: 
+!!!GTL: Hymnbook B
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	1
+!!!RDF*pag: 24v-25r
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: dr Marcin Konik
+!!!END: 2015-04/2015-05
+!!!EED: dr Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!title: @{OTL}, @{GTL}: p. @{RDF*pag}, ed. @{ENC}
+!!muse2ps: z14jc180F
+**kern
+*staff1
+*I"[Canto]
+*oclefC1
+*clefG2
+*k[b-]
+*M2/1
+=-
+!LO:TX:a:t=no meter indication
+!!do uzupełnienia
+==
+*-
+!!!!SEGMENT: St-B-025v-O-naiasnieysza-lilia.krn
+!!!COM: Anonim
+!!!CDT: [?]
+!!!OTL: O naiasnieÿsza lilia dziewiczo
+!!!TXO: Polish
+!!!ODT: 
+!!!GTL: Hymnbook B
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	1
+!!!RDF*pag: 25v-26r
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: dr Marcin Konik
+!!!END: 2015-04/2015-05
+!!!EED: dr Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!title: @{OTL}, @{GTL}: p. @{RDF*pag}, ed. @{ENC}
+!!muse2ps: z14jc180F
+**kern
+*staff1
+*I"[Canto]
+*oclefC1
+*clefG2
+*M2/1
+=-
+!LO:TX:a:t=no meter indication
+1g
+2g
+2g
+4a
+4g
+4a
+4b
+1cc
+2b
+1a
+1g
+2f#
+1g
+2d
+2e
+1f
+1g
+1f
+2e
+1d
+=-
+!!Original pagebreak
+2c#
+1d
+2a
+2a
+2a
+2a
+2b
+2a
+2g
+2g
+2a
+2a
+1b
+2a
+1g
+2f#
+0gl
+==
+*-
+!!!!SEGMENT: St-B-026v-Iako-roza.krn
+!!!COM: Anonim
+!!!CDT: [?]
+!!!OTL: Iako roża miedzÿ kolaczÿm glogiem
+!!!TXO: Polish
+!!!ODT: 
+!!!GTL: Hymnbook B
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	1
+!!!RDF*pag: 26v-27r
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: dr Marcin Konik
+!!!END: 2015-04/2015-05
+!!!EED: dr Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!title: @{OTL}, @{GTL}: p. @{RDF*pag}, ed. @{ENC}
+!!muse2ps: z14jc180F
+**kern
+*staff1
+*I"[Canto]
+*oclefC1
+*clefG2
+*M2/1
+=-
+!LO:TX:a:t=no meter indication
+1f
+2a
+2g
+2.f
+4g
+2a
+2a
+2g
+1f
+2e
+1f
+=:|:
+2.e
+4e
+2e
+2e
+2f
+2d
+=-
+!!Original pagebreak
+1d
+2d
+1c
+2B#
+1c
+1c
+4d
+4e
+1f
+2e
+0fl
+==
+*-
+!!!!SEGMENT: St-B-027v-Gwiazdo-morza.krn
+!!!COM: Anonim
+!!!CDT: [?]
+!!!OTL: Gwiazdo morza głębokiego
+!!!TXO: Polish
+!!!ODT: 
+!!!GTL: Hymnbook B
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	1
+!!!RDF*pag: 27v-28r
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: dr Marcin Konik
+!!!END: 2015-04/2015-05
+!!!EED: dr Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!title: @{OTL}, @{GTL}: p. @{RDF*pag}, ed. @{ENC}
+!!muse2ps: z14jc180F
+**kern
+*staff1
+*I"[Canto]
+*oclefG2
+*clefG2
+*M2/1
+=-
+!LO:TX:a:t=no meter indication
+1g
+4cc
+4b
+4cc
+4dd
+2ee
+2cc
+2dd
+1ee
+1dd
+1ee
+1cc
+2a
+2b
+1cc
+2b
+1a
+1g
+2a
+=-
+!!Original pagebreak
+1a
+2a
+2b
+1cc
+2.dd
+1cc
+1.b
+1cc
+1g
+2a
+2b
+1cc
+1b
+1a
+2g
+0al
+==
+*-
+!!!!SEGMENT: St-B-028v-Tobie-nad-pomysl.krn
+!!!COM: Anonim
+!!!CDT: [?]
+!!!OTL: Tobie na pomÿsł
+!!!TXO: Polish
+!!!ODT: 
+!!!GTL: Hymnbook B
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	1
+!!!RDF*pag: 28v-29r
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: dr Marcin Konik
+!!!END: 2015-04/2015-05
+!!!EED: dr Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!title: @{OTL}, @{GTL}: p. @{RDF*pag}, ed. @{ENC}
+!!muse2ps: z14jc180F
+**kern
+*staff1
+*I"[Canto]
+*oclefC1
+*clefG2
+*M2/1
+=-
+!LO:TX:a:t=no meter indication
+1f
+2g
+2a
+2f
+2a
+4g
+4f
+2e
+1f
+2e
+2e
+1f
+1f
+1g
+1f
+1d;
+=-
+!!Original pagebreak
+1f
+2a
+2a
+1b
+1b
+1f
+1f
+2g
+1f
+2e
+1f
+1e
+1g
+2e
+1f
+0dl
+==
+*-
+!!!!SEGMENT: St-B-029v-Urzad-zbawienia.krn
+!!!COM: Anonim
+!!!CDT: [?]
+!!!OTL: Vrzad zbawienia luczkiego
+!!!TXO: Polish
+!!!ODT: 
+!!!GTL: Hymnbook B
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	1
+!!!RDF*pag: 29v-30r
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: dr Marcin Konik
+!!!END: 2015-04/2015-05
+!!!EED: dr Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!title: @{OTL}, @{GTL}: p. @{RDF*pag}, ed. @{ENC}
+!!muse2ps: z14jc180F
+**kern
+*staff1
+*I"[Canto]
+*oclefC1
+*clefG2
+*M2/1
+=-
+!LO:TX:a:t=no meter indication
+1c
+1e
+2g
+2g
+2a
+1g
+2f
+1g
+2e
+2e
+1f
+1e
+4d
+1c
+2B
+=-
+!!Original pagebreak
+1c
+2d
+2e
+1f
+1d
+2e
+1g
+2f
+1g
+4a
+2g
+1f
+1e
+2.f
+4e
+4d
+2d
+1c
+2B
+0cl
+==
+*-
+!!!!SEGMENT: St-B-030v-Sanctissima-Maria.krn
+!!!COM: Anonim
+!!!CDT: [?]
+!!!OTL: Sanctissima Maria Dei plena gratia
+!!!TXO: Latin
+!!!ODT: 
+!!!GTL: Hymnbook B
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	1
+!!!RDF*pag: 30v-31r
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: dr Marcin Konik
+!!!END: 2015-04/2015-05
+!!!EED: dr Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!title: @{OTL}, @{GTL}: p. @{RDF*pag}, ed. @{ENC}
+!!muse2ps: z14jc180F
+**kern
+*staff1
+*I"[Canto]
+*oclefC1
+*clefG2
+*k[b-]
+*M2/1
+=-
+!LO:TX:a:t=no meter indication
+2a
+1b-
+4a
+4a
+1cc
+1b-
+1a
+1dd
+1cc
+2a
+2a
+2a
+2a
+1a
+2dd
+2cc
+1dd
+1a
+1b-
+1a
+=-
+!!Original pagebreak
+1a
+1cc
+2cc
+2b-
+1a
+1a
+1a
+2b-
+2g
+2.b-
+4b-
+2a
+2dd
+2cc
+2a
+1b-
+1a
+0al
+==
+*-
+!!!!SEGMENT: St-B-031v-Mocny-Boze.krn
+!!!COM: Anonim
+!!!CDT: [?]
+!!!OTL: Mocznÿ Boże zwÿsokości
+!!!TXO: Polish
+!!!ODT: 
+!!!GTL: Hymnbook B
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	1
+!!!RDF*pag: 31v-32r
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: dr Marcin Konik
+!!!END: 2015-04/2015-05
+!!!EED: dr Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!title: @{OTL}, @{GTL}: p. @{RDF*pag}, ed. @{ENC}
+!!muse2ps: z14jc180F
+**kern
+*staff1
+*I"[Canto]
+*oclefC1
+*clefG2
+*k[b-]
+*M3/1
+=-
+!LO:TX:a:t=no meter indication
+2r
+2r
+1g
+0a
+1cc
+0dd
+1ee
+1dd
+1cc
+1dd
+0a
+1dd
+0cc
+1a
+0cc
+1b-
+1a
+0g
+0f#
+1f
+=-
+!!Original pagebreak
+0a
+1cc
+0g
+1g
+1a
+0b-
+0al
+==
+*-
+!!!!SEGMENT: St-B-034v-Iesum-parvulum.krn
+!!!COM: Anonim
+!!!CDT: [?]
+!!!OTL: Iesum paruulum christum
+!!!TXO: Latin
+!!!ODT: 
+!!!GTL: Hymnbook B
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	1
+!!!RDF*pag: 34v-35r
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: dr Marcin Konik
+!!!END: 2015-04/2015-05
+!!!EED: dr Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!title: @{OTL}, @{GTL}: p. @{RDF*pag}, ed. @{ENC}
+!!muse2ps: z14jc180F
+**kern
+*staff1
+*I"[Canto]
+*oclefC1
+*clefG2
+*M2/1
+=-
+!LO:TX:a:t=no meter indication
+!LO:TX:t=on the bottom of the page
+1f
+1f
+1f
+2e
+2d
+1.e
+2f
+1g
+1a
+1b
+1a
+1g
+1f
+0e
+1f
+1a
+1a
+=-
+!!Original pagebreak
+1a
+1.g
+1f
+2e
+1f
+2.c
+4d
+2e
+2f
+2g
+1f
+2e
+0fl
+==
+*-
+!!!!SEGMENT: St-B-034v-Nobis-est-natus.krn
+!!!COM: Anonim
+!!!CDT: [?]
+!!!OTL: Nobis est natus hodie
+!!!TXO: Latin
+!!!ODT: 
+!!!GTL: Hymnbook B
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	1
+!!!RDF*pag:
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: dr Marcin Konik
+!!!END: 2015-04/2015-05
+!!!EED: dr Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!title: @{OTL}, @{GTL}: p. @{RDF*pag}, ed. @{ENC}
+!!muse2ps: z14jc180F
+**kern
+*staff1
+*I"[Canto]
+*oclefC1
+*clefG2
+*met(c|)
+*M2/1
+=-
+1g
+2g
+2g
+2d
+2d
+2f
+2f
+1g
+2g
+2a
+2b
+2b
+2f
+2g
+2a
+2b
+=-
+!!Original pagebreak
+1a
+2b
+2a
+2g
+2f
+0g
+2.d
+4e
+2f
+2g
+2a
+2cc
+1a
+2b
+2a
+2g
+2f
+0gl
+==
+*-
+!!!!SEGMENT: St-B-035v-Florent-florent-lilia.krn
+!!!COM: Anonim
+!!!CDT: 
+!!!OTL: Florent florent lïlia
+!!!TXO: Latin
+!!!ODT: 
+!!!GTL: Hymnbook B
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	1
+!!!RDF*pag: 35v
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: dr Marcin Konik
+!!!END: 2015-04/2015-05
+!!!EED: dr Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!title: @{OTL}, @{GTL}: p. @{RDF*pag}, ed. @{ENC}
+!!muse2ps: z14jc180F
+**kern
+*staff1
+*I"[Canto]
+*oclefC1
+*clefG2
+*k[b-]
+*M2/1
+=-
+!LO:TX:a:t=no meter indication
+1cc
+1dd
+1cc
+1g
+2b-
+2a
+1f
+1a
+1f
+1e
+1f
+2b-
+2a
+1f
+1a
+1.g
+2a
+1f
+1e
+0fl
+==
+*-
+!!!!SEGMENT: St-B-035v-Puer-nobis-nascitur.krn
+!!!COM: Anonim
+!!!CDT: [?]
+!!!OTL: Puer nobis nascitur de pura virgine
+!!!TXO: Latin
+!!!ODT: 
+!!!GTL: Hymnbook B
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	1
+!!!RDF*pag: 35v-36r
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: dr Marcin Konik
+!!!END: 2015-04/2015-05
+!!!EED: dr Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!title: @{OTL}, @{GTL}: p. @{RDF*pag}, ed. @{ENC}
+!!muse2ps: z14jc180F
+**kern
+*staff1
+*I"[Canto]
+*oclefC1
+*clefG2
+*k[b-]
+*M3/1
+=-
+0cc
+1cc
+1.b-
+2a
+1g
+0a
+1a
+0a
+1a
+0g
+1cc
+0cc
+1b-
+0cc
+0cc
+0a
+=-
+!!Original pagebreak
+1a
+0a
+1b-
+0a
+1a
+0g
+1g
+0f
+1f
+0e
+1e
+0f
+0fl
+==
+*-
+!!!!SEGMENT: St-B-036r-Dominus-natus-est.krn
+!!!COM: Anonim
+!!!CDT: 
+!!!OTL: Dominus natus est
+!!!TXO: Latin
+!!!ODT: 
+!!!GTL: Hymnbook B
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	1
+!!!RDF*pag: 36r
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: dr Marcin Konik
+!!!END: 2015-04/2015-05
+!!!EED: dr Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!title: @{OTL}, @{GTL}: p. @{RDF*pag}, ed. @{ENC}
+!!muse2ps: z14jc180F
+**kern
+*staff1
+*I"[Canto]
+*oclefC1
+*clefG2
+*M2/1
+=-
+!LO:TX:a:t=no meter indication
+1f
+1f
+1.e
+2f
+1g
+1a
+1g
+0g
+1f
+1f
+2e
+2f
+2g
+2e
+0f
+1a
+1a
+1b
+1a
+1g
+1f
+1e
+1e
+1a
+1a
+1f
+1e
+1f
+0fl
+==
+*-
+!!!!SEGMENT: St-B-036v-Iesu-paruule.krn
+!!!COM: Anonim
+!!!CDT: 
+!!!OTL: Iesu paruule nate hodie
+!!!TXO: Latin/Polish
+!!!ODT: 
+!!!GTL: Hymnbook B
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	1
+!!!RDF*pag: 36v-38r
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: dr Marcin Konik
+!!!END: 2015-04/2015-05
+!!!EED: dr Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!title: @{OTL}, @{GTL}: p. @{RDF*pag}, ed. @{ENC}
+!!muse2ps: z14jc180F
+**kern
+*staff1
+*I"[Canto]
+*oclefC1
+*clefG2
+*met(c|)
+*M2/1
+=-
+1f
+1f
+1f
+1f
+0e
+1f
+1f
+2g
+1f
+2e
+0f
+*M3/1
+0a
+1a
+0g
+1f
+0g
+1f
+0e
+1f
+=-
+!!Original pagebreak
+!!Wrong folio numbering - f. 38r after f. 36v - brak fot.?
+0a
+1a
+0g
+1f
+0g
+1f
+0e
+1f
+*M2/1
+1f
+1f
+2g
+1f
+2e
+0f
+1f
+1f
+2g
+1f
+2e
+0f
+==
+*-
+!!!!SEGMENT: St-B-036v-Pueri-concinite.krn
+!!!COM: Anonim
+!!!CDT: [?]
+!!!OTL: Pueri concinite / O Panie nasz
+!!!TXO: Polish
+!!!TXO: Latin
+!!!ODT: 
+!!!GTL: Hymnbook B
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	1
+!!!RDF*pag: 37v-38r
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: dr Marcin Konik
+!!!END: 2015-04/2015-05
+!!!EED: dr Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!title: @{OTL}, @{GTL}: p. @{RDF*pag}, ed. @{ENC}
+!!muse2ps: z14jc180F
+**kern
+*staff1
+*I"[Canto]
+*oclefG2
+*clefG2
+!*k[b-]
+*met(c|)
+*M2/1
+=-
+1r
+2r
+2cc
+1.b
+2b
+2g
+1cc
+2b
+0cc
+2r
+2b
+1.b
+2b
+1cc
+2cc
+2cc
+1dd
+1cc
+!LO:TX:a:t=flat in the source
+1ff-
+2ee
+1cc
+4b
+4a
+1b
+0cc
+=-
+!!Original pagebreak
+1dd
+1cc
+1ff
+1ee
+1dd
+1cc
+1ff
+1ee
+1dd
+1cc
+1b
+0g
+0cc
+1b
+0cc
+0ccl
+==
+*-
+!!!!SEGMENT: St-B-038v-Iam-cantemus-hodie.krn
+!!!COM: Anonim
+!!!CDT: [?]
+!!!OTL: Iam cantemus hodie
+!!!TXO: Latin
+!!!ODT: 
+!!!GTL: Hymnbook B
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	1
+!!!RDF*pag: 38v
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: dr Marcin Konik
+!!!END: 2015-04/2015-05
+!!!EED: dr Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!title: @{OTL}, @{GTL}: p. @{RDF*pag}, ed. @{ENC}
+!!muse2ps: z14jc180F
+**kern
+*staff1
+*I"[Canto]
+*oclefC1
+*clefG2
+!*k[b-]
+!*met(c|)
+*M3/1
+=-
+0d
+1c
+0c
+1e
+0d
+1c
+0d;
+0e
+1f
+0g
+1e
+0f
+1d
+0e;
+0c
+1d
+0e
+1g
+0f
+1e
+0d
+1c
+==
+*-

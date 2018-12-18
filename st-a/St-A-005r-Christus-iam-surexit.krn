@@ -1,0 +1,118 @@
+!!!COM: Anonim
+!!!CDT: [?]
+!!!OTL@@LAT: Christus iam surexit
+!!!OTL@@POL: Christus zmartwÿchwstał iest
+!!!TXO: Latin, Polish
+!!!ODT: 
+!!!GTL: Hymnbook A
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	1
+**kern
+*staff1
+*I"[Canto]
+*oclefC1
+*clefG2
+!*k[b-]
+!*met(c|)
+*M2/1
+=-
+1dd
+1a
+=-
+1cc
+1b
+=-
+2a
+1dd
+2cc
+=-
+0dd
+=-
+1cc
+2b
+2g
+=-
+2a
+2cc
+1dd
+=-
+1cc
+1b
+=-
+0a
+=-
+2.b
+4cc
+2.dd
+4cc
+=-
+2.a
+4b
+1cc
+=-
+2b
+2cc
+2a
+2dd
+=-
+0cc#
+=-
+1dd
+1a
+=-
+1cc
+1g
+=-
+2a
+2dd
+1cc
+=-
+0dd
+=-
+2.ee
+4dd
+2cc
+2b
+=-
+1a
+1dd
+=-
+2cc
+2b
+1cc
+=-
+0dd
+=-
+1g
+2.cc
+4b
+=-
+1a
+2cc
+2a
+=-
+2b
+2cc
+2a
+2dd
+=-
+0cc
+=-
+!LO:TX:Y=0:t=longa
+0dd
+==
+*-
+!!title: @{OTL}, @{GTL}: @{pag}, ed. @{ENC}
+!!!pag: p. 5r
+!!!GTL: Hymnbook A
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2015-03-14
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F

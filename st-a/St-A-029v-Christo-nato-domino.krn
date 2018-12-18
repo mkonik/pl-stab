@@ -1,0 +1,169 @@
+!!!COM: Anonim
+!!!CDT: [?]
+!!!OTL@@LAT: Christo nato domino
+!!!TXO: Latin
+!!!ODT: 
+!!!GTL: Hymnbook A
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	1
+**kern
+*staff1
+*I"[Canto]
+=1-
+*oclefC1
+*clefG2
+!*k[b-]
+*met(c|)
+*M2/1
+2f
+2f
+2a
+2b
+=-
+2cc
+2dd
+1cc
+=-
+2g
+2g
+2cc
+2b
+=-
+1a
+1f
+=-
+2f
+2f
+2a
+2b
+=-
+2cc
+2dd
+1cc
+=-
+2g
+2g
+2cc
+2b
+=-
+1a
+1f
+=-
+2f
+2b
+2a
+2g
+=-
+2a
+2f
+2e
+2d
+=-
+2f
+2g
+1a
+=-
+2g
+2b
+2a
+2g
+=-
+2a
+2f
+2e
+2g
+=-
+1f
+1f;
+=-
+*M3/1
+0f
+1f
+=-
+0a
+1b
+=-
+0cc
+1dd
+=-
+!LO:TX:Y=0:t=no dot
+0.cc
+=-
+0g
+1g
+=-
+0cc
+1b
+=-
+0a
+0f
+=-
+0f
+1f
+=-
+0a
+1b
+=-
+0cc
+1dd
+=-
+!LO:TX:Y=0:t=no dot
+0.cc
+=-
+0g
+1g
+=-
+0cc
+1b
+=-
+0a
+0f
+=-
+0f
+1b
+=-
+0a
+1g
+=-
+0a
+1g
+=-
+0e
+1c
+=-
+0f
+1g
+=-
+!LO:TX:Y=0:t=no dot
+0.a
+=-
+0g
+1b
+=-
+0a
+1g
+=-
+0b
+1g
+=-
+0f
+1a
+=-
+0g
+0g
+==
+*-
+!!title: @{OTL}, @{GTL}: @{pag}, ed. @{ENC}
+!!!pag: pp. 29v-30r
+!!!GTL: Hymnbook A
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2015-04-20
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F

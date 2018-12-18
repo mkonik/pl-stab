@@ -1,0 +1,125 @@
+!!!OTL: Salue, sancta parens 
+**kern
+*staff1
+=1-
+*clefC4
+*k[]
+*met(c|)
+*M2/2
+1G
+1F
+1C
+1F
+=2
+1F
+0F
+0G
+=3
+2F/
+2G/
+2A\
+2F/
+1G
+1D
+=4
+!!linebreak:original
+0G
+0F
+0C
+0G
+1C
+=5
+!LO:TX:Y=-40:t=P
+2C/
+2C/
+2G/
+2F/
+1G
+1D
+=6
+!!linebreak:original
+!LO:TX:Y=-39:t=P
+1F
+1C
+1C
+=7
+!LO:TX:Y=-38:t=P
+1G
+2A\
+2G/
+1F
+1G
+=8
+!!linebreak:original
+0G
+0F
+1.C
+2C/
+1C
+=9
+1.G
+2C/
+1G
+1F
+2G/
+2C/
+0D
+0G;
+=10
+!!linebreak:original
+!LO:TX:Y=-37:t=P
+1G
+1F
+1C
+1C
+=11
+!LO:TX:Y=-36:t=P
+1C
+1C
+1C
+=12
+!LO:TX:Y=-40:t=P
+!LO:TX:Y=-40:t=P
+!LO:TX:Y=-40:t=P
+1C
+1G
+1G
+1C
+=13
+!!pagebreak:original
+1F
+1.C
+2C/
+1C
+=14
+1.G
+2G/
+1C
+2G/
+2C/
+=15
+0D
+0C
+==
+*-
+!!title: @{OTL}, @{GTL}, ed. @{ENC}
+!!!pag:
+!!!GTL: Hymnbook D
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2015-0m-dd
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F
+!!!COM: Anonim
+!!!CDT: [?]
+!!!TXO: Polish
+!!!ODT: 
+!!!GTL: Hymnbook D
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	1

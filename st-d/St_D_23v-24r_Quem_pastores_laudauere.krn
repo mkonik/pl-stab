@@ -1,0 +1,88 @@
+!!!OTL: Quem pastores laudauere
+**kern
+*staff1
+=1-
+*clefC1
+*k[]
+0f
+1f
+0f
+0g
+1c
+=2
+2g\
+2f/
+2e/
+2c/
+1g
+1c
+0c
+!!linebreak:original
+=3
+0r
+0r
+=4
+0b
+0cc
+1dd
+0cc
+0b
+1a
+=5
+0g
+1e
+1e
+0d
+=6
+!!linebreak:original
+*M3/1
+0r
+0r
+=7
+0e
+1f
+=8
+0g
+1a
+=9
+0g
+1d
+=10
+1e
+0e
+!!linebreak:original
+=11
+0f
+1f
+=12
+0e
+0d
+1c
+0c
+0B
+=13
+1B
+0c
+==
+*-
+!!title: @{OTL}, @{GTL}, ed. @{ENC}
+!!!pag:
+!!!GTL: Hymnbook D
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2015-0m-dd
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F
+!!!COM: Anonim
+!!!CDT: [?]
+!!!TXO: Polish
+!!!ODT: 
+!!!GTL: Hymnbook D
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	1

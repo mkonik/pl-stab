@@ -1,0 +1,74 @@
+!!!OTL: Uniuersi populi
+**kern
+*staff1
+=1-
+*clefF4
+*k[]
+*M3/1
+0AA
+1AA
+=2
+0E
+1C
+=3
+0C
+1F
+=4
+0.C
+=5
+!!linebreak:original
+0C
+1C
+=6
+0AA
+1E
+=7
+0.AA
+=8
+0.AA;
+=9:|!
+!!linebreak:original
+0A
+1G
+=10
+0G
+1G
+=11
+0C
+1C
+=12
+0.C
+=13
+!!linebreak:original
+0C
+1F
+=14
+0D
+1E
+=15
+0.AA
+=16
+0.AA
+==
+*-
+!!title: @{OTL}, @{GTL}, ed. @{ENC}
+!!!pag:
+!!!GTL: Hymnbook D
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2015-0m-dd
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F
+!!!COM: Anonim
+!!!CDT: [?]
+!!!TXO: Polish
+!!!ODT: 
+!!!GTL: Hymnbook D
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	1

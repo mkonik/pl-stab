@@ -1,0 +1,82 @@
+!!!COM: Anonim
+!!!CDT: [?]
+!!!OTL@@LAT: Virgo tenera genitrix
+!!!TXO: Latin
+!!!ODT: 
+!!!GTL: Hymnbook A
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	1
+**kern
+*staff1
+*I"[Canto]
+!*oclefC1
+*clefG2
+!*k[b-]
+!*met(c|)
+*M3/1
+=-
+!LO:TX:Y=0:t=no clef
+0g
+1f
+0a
+1g
+0f
+1r
+0e
+1f
+0d
+1c
+0d
+1r
+=-
+0a
+1g
+0f
+1g
+1e
+1a
+1g
+0a
+1r
+0a
+1g
+0f
+1e
+!LO:TX:Y=0:t=p. 26r
+1e
+1a
+1g
+0a
+1r
+=-
+0a
+1b
+0cc
+1d
+1b
+0a
+0b
+0cc
+1b
+1a
+1g
+1f
+0g
+1f
+0g
+==
+*-
+!!title: @{OTL}, @{GTL}: @{pag}, ed. @{ENC}
+!!!pag:
+!!!GTL: Hymnbook A
+!!!EFL: pp. 25v-26r
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2015-03-21
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F

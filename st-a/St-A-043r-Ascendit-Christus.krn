@@ -1,0 +1,79 @@
+!!!COM: Anonim
+!!!CDT: [?]
+!!!OTL@@LAT: Ascendit Christusin altum
+!!!TXO: Latin
+!!!ODT: 
+!!!GTL: Hymnbook A
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	1
+**kern
+*staff1
+*I"[Canto]
+=1-
+*oclefC1
+*clefG2
+*k[b-]
+!*met(c|)
+*M3/1
+1f
+0f
+=-
+1f
+0g
+=-
+1g
+0a
+=-
+1b-
+0cc
+=-
+1cc
+0b-
+=-
+1a
+1g
+1cc
+=-
+1b-
+0a
+=-
+1g
+0a
+=-
+1a
+0f
+=-
+1f
+0a
+=-
+1g
+0f
+=-
+1e
+0f
+=-
+1d
+0f
+=-
+1e
+1f
+[1e
+=-
+1e]
+0f
+==
+*-
+!!title: @{OTL}, @{GTL}: @{pag}, ed. @{ENC}
+!!!pag: p. 43r
+!!!GTL: Hymnbook A
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2015-04-15
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F

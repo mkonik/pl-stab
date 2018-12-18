@@ -1,0 +1,68 @@
+!!!OTL: Iam cantemus hodie
+**kern
+*staff1
+=1-
+*clefF4
+*k[]
+*M3/1
+0D
+1AA
+=2
+0D
+1AA
+=3
+0D
+1AA
+=4
+0BB;
+!!linebreak:original
+=5
+0AA
+1D
+=6
+0E
+1D
+=7
+1AA
+0D
+=8
+0AA;
+!!linebreak:original
+=9
+0AA
+1D
+=10
+0E
+1C
+=11
+1AA
+1.C
+2D\
+=12
+1BB
+0D
+=13
+0GG
+==
+*-
+!!title: @{OTL}, @{GTL}, ed. @{ENC}
+!!!pag:
+!!!GTL: Hymnbook D
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2015-0m-dd
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F
+!!!COM: Anonim
+!!!CDT: [?]
+!!!TXO: Polish
+!!!ODT: 
+!!!GTL: Hymnbook D
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	1

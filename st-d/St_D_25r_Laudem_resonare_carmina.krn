@@ -1,0 +1,71 @@
+!!!OTL: Laudem resonare carmina
+**kern
+*staff1
+=1-
+*clefF3
+*k[]
+0F
+=2
+1F
+1F
+=3
+1D
+1D
+=4
+0C
+=5
+!!linebreak:original
+1G
+1G
+=6
+1F
+1G
+=7
+1D
+1D
+=8
+0C
+=9
+!!linebreak:original
+0c
+=10
+1c
+1c
+=11
+1B
+1A
+=12
+0G
+=13
+!!linebreak:original
+1c
+1c
+=14
+2A\
+2B\
+1G
+=15
+0F
+==
+*-
+!!title: @{OTL}, @{GTL}, ed. @{ENC}
+!!!pag:
+!!!GTL: Hymnbook D
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2015-0m-dd
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F
+!!!COM: Anonim
+!!!CDT: [?]
+!!!TXO: Polish
+!!!ODT: 
+!!!GTL: Hymnbook D
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	1

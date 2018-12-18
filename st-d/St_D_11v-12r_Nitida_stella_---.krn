@@ -1,0 +1,73 @@
+!!!OTL: Nitida stella 
+**kern
+*staff1
+=1-
+*clefF4
+*k[b-]
+*M3/2
+1G
+1G
+1G
+=2
+0D
+1G
+=3
+1E-
+1E-i
+1E-i
+=4
+0D
+1D
+=5
+0D
+1BB-
+=6
+0F
+1G
+=7
+0D;
+!!linebreak:original
+=8
+0D
+1G
+=9
+0D
+1D
+=10
+1E-
+1E-i
+1BB-
+=11
+0F
+1F
+=12
+0G
+1C
+=13
+0D
+1D
+=14
+0GG
+==
+*-
+!!title: @{OTL}, @{GTL}, ed. @{ENC}
+!!!pag:
+!!!GTL: Hymnbook D
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2015-0m-dd
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F
+!!!COM: Anonim
+!!!CDT: [?]
+!!!TXO: Polish
+!!!ODT: 
+!!!GTL: Hymnbook D
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	1

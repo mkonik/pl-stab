@@ -1,0 +1,60 @@
+!!!COM: Anonim
+!!!CDT: [?]
+!!!OTL@@LAT: Sanctissima sanctissima mater Dei
+!!!TXO: Latin
+!!!ODT: 
+!!!GTL: Hymnbook A
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	1
+**kern	**blank
+*staff1	*
+*I"[Canto]	*
+!*oclefC1	!
+*clefG2	*
+!*k[b-]	!
+!*met(c|)	!
+*M2/1	*
+=-	=-
+!LO:TX:Y=0:t=clef and meter missing	!
+1ryy	[San]-
+1a	-ctis-
+1a	-si-
+1a	-ma
+1.cc	san-
+4b	-ctis-
+4a	-si-
+1g	-ma
+1cc	ma-
+1b	-ter
+1a	De-
+1g;	-i
+=-	=-
+1g	.
+1a	.
+1b	.
+1.cc	.
+4b	.
+4a	.
+1g	.
+2a	.
+2.b	.
+4a	.
+1a	.
+2g	.
+0a	.
+==	==
+*-	*-
+!!title: @{OTL}, @{GTL}: @{pag}, ed. @{ENC}
+!!!pag: p. 1v
+!!!GTL: Hymnbook A
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2015-03-01
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F

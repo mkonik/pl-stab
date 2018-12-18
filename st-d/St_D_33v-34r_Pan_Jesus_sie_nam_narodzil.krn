@@ -1,0 +1,89 @@
+!!!OTL: Pan Jesus sie nam narodzil
+**kern
+*staff1
+=1-
+*clefF4
+*k[]
+*met(c|)
+*M2/2
+1D
+1D
+=2
+1AA
+1D
+=3
+1C
+1D
+=4
+1AA
+1D
+=5
+1D
+1D
+=6
+1D
+1C
+=7
+!LO:TX:Y=120:t=P
+0FF
+=8
+!!linebreak:original
+1F
+1E
+=9
+1F
+1D
+=10
+1C
+1D
+=11
+!LO:TX:Y=-44:t=P
+1AA
+1D
+=12
+1D
+2D\
+2D\
+=13
+2C/
+2D\
+2AA/
+2D\
+=14
+!!linebreak:original
+1D
+2D\
+2D\
+=15
+2C/
+2D\
+2AA/
+2.D\
+4C/
+2BB-/
+=16
+1AA
+0D
+==
+*-
+!!title: @{OTL}, @{GTL}, ed. @{ENC}
+!!!pag:
+!!!GTL: Hymnbook D
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2015-0m-dd
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F
+!!!COM: Anonim
+!!!CDT: [?]
+!!!TXO: Polish
+!!!ODT: 
+!!!GTL: Hymnbook D
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	1

@@ -1,0 +1,106 @@
+!!!COM: Anonim
+!!!CDT: [?]
+!!!OTL@@LAT: Hÿmnisemus domino
+!!!TXO: Latin
+!!!ODT: 
+!!!GTL: Hymnbook A
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	1
+**kern
+*staff1
+*I"Basso
+=1-
+*oclefC1
+*clefG2
+*k[b-]
+*met(c|)
+*M2/1
+1cc
+2b-
+2a
+=2
+1g
+2a
+2g
+=3
+1f
+1e
+=4
+0f
+=5
+1f
+1e
+=6
+0f
+=7
+1a
+2g
+2b-
+=8
+1a
+1g
+=9
+1f
+1e
+=10
+0f
+=11
+1f
+2g
+2g
+=12
+0a
+!!page 25r
+=13
+1a
+1dd
+=14
+1cc
+1a
+=15
+1b-
+1b-
+=16
+0a
+=17
+1a
+1a
+=18
+1a
+1g
+=19
+1f
+1b-
+=20
+0a
+=21
+1g
+1g
+=22
+0a
+=23
+1b-
+2a
+[2g
+=24
+2g]
+1f
+2e
+=25
+0f
+==
+*-
+!!title: @{OTL}, @{GTL}: @{pag}, ed. @{ENC}
+!!!pag: pp. 22v-23r
+!!!GTL: Hymnbook A
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2015-05-15
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F

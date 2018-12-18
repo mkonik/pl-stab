@@ -1,0 +1,86 @@
+!!!COM: Anonim
+!!!CDT: [?]
+!!!OTL@@LAT: Tempus monet
+!!!TXO: Latin
+!!!ODT: 
+!!!GTL: Hymnbook A
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	1
+**kern
+*staff1
+*I"[Canto]
+=1-
+*oclefC1
+*clefG2
+!*k[b-]
+*met(c|)
+*M2/2
+1g
+=2
+2g
+2g
+=3
+1dd
+=4
+2.dd
+4cc
+=5
+2b
+2a
+=6
+2a
+[2g
+=7
+2g]
+2f
+=8
+1g
+=9
+2f
+2f
+=10
+2f
+2g
+=11
+2a
+2g
+=12
+2a
+[2f
+=13
+2f]
+2e
+=14
+1f
+=15
+2cc
+2cc
+=16
+2cc
+2b
+=17
+1a
+=18
+2g
+[2g
+=19
+2g]
+2f
+=20
+1g
+==
+*-
+!!title: @{OTL}, @{GTL}: @{pag}, ed. @{ENC}
+!!!pag: pp. 20v-21r
+!!!GTL: Hymnbook A
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2015-04-25
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F

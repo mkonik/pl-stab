@@ -1,0 +1,96 @@
+!!!COM: Anonim
+!!!CDT: [?]
+!!!OTL@@LAT: Iesu parvule
+!!!TXO: Latin
+!!!ODT: 
+!!!GTL: Hymnbook A
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	1
+**kern
+*staff1
+*I"[Canto]
+=1-
+*oclefC2
+*clefG2
+!*k[b-]
+*met(c|)
+*M2/1
+!!page 21v
+1f
+1f
+=2
+1f
+1f
+=3
+0e
+=4
+1f
+1f
+=5
+2g
+1f
+2e
+=6
+0f
+=7
+*M3/1
+0a
+1a
+=8
+0g
+1f
+=9
+0g
+1f
+=10
+0e
+1f
+=11
+!!page 22r
+0a
+1a
+=12
+0g
+1f
+=13
+0g
+1f
+=14
+0e
+1f
+=15
+*M2/1
+*met(c|)
+1f
+1f
+=16
+2g
+1f
+2e
+=17
+0f
+=18
+1f
+1f
+=19
+2g
+1f
+2e
+=20
+0f
+==
+*-
+!!title: @{OTL}, @{GTL}: @{pag}, ed. @{ENC}
+!!!pag: pp. 21v-22r
+!!!GTL: Hymnbook A
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2015-03-15
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F

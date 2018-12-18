@@ -1,0 +1,76 @@
+!!!COM: Anonim
+!!!CDT: [?]
+!!!OTL@@LAT: Aue stella matutina
+!!!TXO: Latin
+!!!ODT: 
+!!!GTL: Hymnbook A
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	1
+**kern
+*staff1
+*I"[Canto]
+*oclefC1
+*clefG2
+*k[]
+*met(c|)
+*M2/1
+=-
+2f
+2f
+2f
+1e
+2f
+2a
+4g
+4f
+2g
+1a
+1a
+2a
+1a
+1cc
+1b
+1a
+4g
+4f
+1g
+1a
+1a
+2g
+1f
+2f
+1e
+=-
+!LO:TX:Y=0:t=p. 65r
+1f
+2e
+1d
+2d
+1c
+2e
+2d
+2e
+1f
+2d
+1d
+2c
+1d
+1d
+1d
+0d
+==
+*-
+!!title: @{OTL}, @{GTL}: @{pag}, ed. @{ENC}
+!!!pag: pp. 64v-65r
+!!!GTL: Hymnbook A
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2015-03-11
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F

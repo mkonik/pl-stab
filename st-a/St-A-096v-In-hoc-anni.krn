@@ -1,0 +1,82 @@
+!!!COM: Anonim
+!!!CDT: [?]
+!!!OTL@@LAT: In hoc anni circulo
+!!!TXO: Latin
+!!!ODT: 
+!!!GTL: Hymnbook A
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	1
+**kern
+*staff1
+*I"[Canto]
+*oclefG2
+*clefG2
+*k[b-]
+!*met(c|)
+*M3/1
+=-
+0b-
+1a
+0b-
+1cc
+0dd
+1cc
+0.dd
+=-
+0dd
+1dd
+0cc
+1b-
+0b-
+1a
+0.a
+=-
+!LO:TX:Y=0:t=p. 97r
+0dd
+1cc
+0b-
+1ff
+0gg
+1ff
+0.ee
+=-
+0dd
+1cc
+0b-
+1ee-
+1dd
+0dd
+0.dd
+=-
+!LO:TX:Y=0:t=p. 96v
+0dd
+1cc
+0ff
+1ff
+0dd
+1cc
+0.dd
+=-
+0dd
+1ee
+0ff
+1dd
+0cc
+1dd
+0dd;
+==
+*-
+!!title: @{OTL}, @{GTL}: @{pag}, ed. @{ENC}
+!!!pag: pp. 96v-97r
+!!!GTL: Hymnbook A
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2015-04-14
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F

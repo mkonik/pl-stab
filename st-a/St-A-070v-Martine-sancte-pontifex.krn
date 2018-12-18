@@ -1,0 +1,81 @@
+!!!COM: Anonim
+!!!CDT: [?]
+!!!OTL@@LAT: Martine sancte Pontifex
+!!!TXO: Latin
+!!!ODT: 
+!!!GTL: Hymnbook A
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	1
+**kern
+*staff1
+*I"[Canto]
+*oclefC1
+*clefG2
+*k[]
+!*met(c|)
+*M3/1
+=-
+1dd
+0dd
+1a
+0cc
+1b
+0a
+1g
+0a
+1f
+0g
+1g
+1f
+0e
+0d
+1c
+0d
+=-
+1f
+0e
+1g
+0a
+!LO:TX:Y=0:t=p. 71r
+1a
+0g
+1e
+0f
+1f
+0e
+1d
+0e
+1e
+2.e
+4f
+1g
+1f
+0e
+0d
+1c
+0d
+=-
+1a
+0cc
+1g
+1a
+0b
+0a
+1g
+0a
+==
+*-
+!!title: @{OTL}, @{GTL}: @{pag}, ed. @{ENC}
+!!!pag: pp. 70v-71r
+!!!GTL: Hymnbook A
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2015-03-14
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F

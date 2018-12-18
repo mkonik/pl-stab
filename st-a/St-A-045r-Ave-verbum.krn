@@ -1,0 +1,60 @@
+!!!COM: Anonim
+!!!CDT: [?]
+!!!OTL@@LAT: Aue uerbum incarnatum
+!!!TXO: Latin
+!!!ODT: 
+!!!GTL: Hymnbook A
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	1
+**kern
+*staff1
+*I"[Canto]
+*oclefC1
+*clefG2
+*k[b-]
+!*met(c|)
+*M2/1
+=-
+0f
+1f
+1f
+2g
+2f
+2g
+2a
+1b
+2g
+1cc
+4b
+4a
+1b
+2.cc
+4b
+2a
+2g
+2f
+2g
+2a
+0.f
+2g
+1a
+1g
+1f
+2e
+0f
+==
+*-
+!!title: @{OTL}, @{GTL}: @{pag}, ed. @{ENC}
+!!!pag: p. 45r
+!!!GTL: Hymnbook A
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2015-03-04
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F

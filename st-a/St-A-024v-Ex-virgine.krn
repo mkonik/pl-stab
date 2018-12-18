@@ -1,0 +1,190 @@
+!!!COM: Anonim
+!!!CDT: [?]
+!!!OTL@@LAT: Ex virgine nunc Maria
+!!!OTL:POL: Narodzilo sie nam dzieciątko
+!!!TXO: Latin, Polish
+!!!ODT: 
+!!!GTL: Hymnbook A
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	1
+**kern
+*staff1
+*I"[Canto]
+*oclefC2
+*clefG2
+!*k[b-]
+*met(c|)
+*M2/1
+=-
+1e
+1f
+=-
+1e
+1f
+=-
+2f
+2e
+1d
+=-
+1d
+0c
+1d
+=-
+1f
+1f
+=-
+1f
+1f
+=-
+1e
+1e
+=-
+1d
+1e
+=-
+1d
+2c
+2d
+=-
+1c
+1d
+=-
+2c
+2d
+1e
+=-
+1f
+1e
+=-
+1d
+1c
+=-
+1d
+1d
+=-
+2c
+2d
+=-
+1e
+1d
+=-
+1d
+1c
+=-
+1d
+1d
+=-
+1f
+1g
+=-
+1a
+1g
+=-
+1f
+1e
+=-
+2g
+1a
+2g
+=-
+1a
+1f
+=-
+2e
+2d
+1c
+=-
+1d
+1e
+=-
+1e
+1d
+=-
+1c
+1d
+=-
+1d
+2c
+2d
+=-
+1e
+1d
+=-
+1d
+1c
+=-
+1d
+!LO:TX:Y=0:t=no pause
+1r
+=-
+*M3/1
+!LO:TX:Y=0:t=meter change to 3/1
+1r
+1r
+1e
+=-
+0f
+1f
+=-
+0e
+1e
+=-
+1.e
+2d
+2e
+!:LO:TX:Y=0:t=missing in mscrp
+2f
+=-
+0g
+1g
+=-
+0f
+1f
+=-
+1e
+0d
+=-
+0c
+1c
+=-
+0e
+1e
+=-
+0f
+1f
+=-
+1.e
+2d
+2e
+2f
+=-
+1g
+1f
+1e
+=-
+0d
+1c
+=-
+0d
+1f
+=-
+2e
+2d
+1c
+1d
+==
+*-
+!!title: @{OTL}, @{GTL}: @{pag}, ed. @{ENC}
+!!!pag: pp. 24v-25r
+!!!GTL: Hymnbook A
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2015-03-22
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F

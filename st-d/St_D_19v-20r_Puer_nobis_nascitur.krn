@@ -1,0 +1,72 @@
+!!!OTL: Puer nobis nascitur
+**kern
+*staff1
+=1-
+*clefF3
+*k[]
+*M3/2
+0C
+1C
+=2
+0G
+1c
+=3
+0F
+1F
+=4
+0F
+1F
+=5
+!!linebreak:original
+0c
+1A
+=6
+0G
+1G
+=7
+0C
+!!linebreak:original
+=8
+0F
+1F
+=9
+0F
+1BB
+=10
+0F
+1F
+=11
+0G
+1E
+!!linebreak:original
+=12
+0F
+1BB
+=13
+0C
+1C
+=14
+0F
+==
+*-
+!!title: @{OTL}, @{GTL}, ed. @{ENC}
+!!!pag:
+!!!GTL: Hymnbook D
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2015-0m-dd
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F
+!!!COM: Anonim
+!!!CDT: [?]
+!!!TXO: Polish
+!!!ODT: 
+!!!GTL: Hymnbook D
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	1

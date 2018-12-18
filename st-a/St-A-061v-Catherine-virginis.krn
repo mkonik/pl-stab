@@ -1,0 +1,69 @@
+!!!COM: Anonim
+!!!CDT: [?]
+!!!OTL@@LAT: Catherine virginis laudes decantemus
+!!!TXO: Latin
+!!!ODT: 
+!!!GTL: Hymnbook A
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	1
+**kern
+*staff1
+*I"[Canto]
+*oclefC1
+*clefG2
+*k[]
+!*met(c|)
+*M3/1
+=-
+0cc
+1cc
+0b
+1b
+2cc
+2b
+2a
+2g
+1f
+1g
+1.a
+2g
+0g
+1f
+0g
+=-
+1g
+0a
+1b
+1cc
+1.a
+2g
+1e
+1.f
+2e
+0e
+1d
+0e
+=-
+!LO:TX:Y=0:t=p. 62r
+0.cc
+1b
+1.cc
+2a
+1b
+0cc
+==
+*-
+!!title: @{OTL}, @{GTL}: @{pag}, ed. @{ENC}
+!!!pag: pp. 61v-62r
+!!!GTL: Hymnbook A
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2015-03-10
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F

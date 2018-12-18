@@ -1,0 +1,100 @@
+!!!COM: Anonim
+!!!CDT: [?]
+!!!OTL@@POL: Witaÿ Jesu przenaslodszÿ
+!!!TXO: Polish
+!!!ODT: 
+!!!GTL: Hymnbook A
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	1
+**kern
+*staff1
+*I"[Canto]
+*oclefC1
+*clefG2
+*k[]
+!*met(c|)
+*M2/1
+=-
+!LO:TX:Y=0:t=no meter indication
+0e
+!LO:TX:Y=0:t=over staff "Po Elewacieÿ osobliwa pÿosnka"
+1g
+1a
+1b
+1cc
+1dd
+1cc
+0b
+1b
+1a
+1b
+0g
+1cc
+1b
+0a
+1g
+1.a
+4g
+4f
+1e
+1c
+1d
+1e
+1f
+0a
+1g
+0a;
+=-
+0a
+1e
+1d
+1c
+!LO:TX:Y=0:t=p. 48r
+1g
+1f
+0e
+1d
+0e
+0b
+0cc
+0b
+1g
+0a
+1g
+1e
+1f
+1.e
+2f
+0g
+0g
+1f
+1g
+1f
+1d
+0e
+1d
+0e
+1.g
+2a
+1b
+1cc
+1b
+0a
+1g
+0a
+==
+*-
+!!title: @{OTL}, @{GTL}: @{pag}, ed. @{ENC}
+!!!pag: pp. 47v-48r
+!!!GTL: Hymnbook A
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2015-03-07
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F

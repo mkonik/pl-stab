@@ -1,0 +1,47 @@
+!!!COM: Anonim
+!!!CDT: [?]
+!!!OTL@@POL: Wesołÿ nam wesołÿ nam teb tho dzień
+!!!TXO: Polish
+!!!ODT: 
+!!!GTL: Hymnbook A
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	1
+**kern
+*staff1
+*I"[Canto]
+*oclefC1
+*clefG2
+*k[]
+!*met(c|)
+*M3/1
+=-
+0a
+1g
+0a
+1b
+0cc
+1b
+0a
+1g
+0cc
+1cc
+1b
+1a
+1g
+0a
+==
+*-
+!!title: @{OTL}, @{GTL}: @{pag}, ed. @{ENC}
+!!!pag: p. 72r
+!!!GTL: Hymnbook A
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2015-03-15
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F

@@ -1,0 +1,108 @@
+!!!COM: Anonim
+!!!CDT: [?]
+!!!OTL@@POL: Bądzcie duszę nabozne
+!!!TXO: Polish
+!!!ODT: 
+!!!GTL: Hymnbook A
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	1
+**kern
+*staff1
+*I"[Canto]
+=1-
+*oclefC1
+*clefG2
+!*k[b-]
+*met(c|)
+*M2/1
+!LO:TX:Y=0:Z=20:t=page 32v
+0f
+=-
+1g
+1f
+=-
+0e
+=-
+1f
+1g
+=-
+0b
+=-
+0g
+=-
+1f
+[1g
+=-
+1g]
+[1f
+=-
+1f]
+1e
+=-
+0f
+=-
+0f
+=-
+0e
+=-
+1f
+1g
+=-
+1f
+1f
+=-
+0e
+=-
+0f
+=-
+1e
+!LO:TX:Y=0:Z=20:t=page 33r
+[1f
+=-
+1f]
+1e
+=-
+0d
+=-
+0e
+=-
+!LO:TX:Y=0:Z=20:t=oclefC2
+0g
+=-
+0f
+=-
+0e
+=-
+1d
+1c
+=-
+0d
+=-
+0e
+=-
+1d
+1e
+=-
+1e
+[1d
+=-
+1d]
+1c
+=-
+0d;
+==
+*-
+!!title: @{OTL}, @{GTL}: @{pag}, ed. @{ENC}
+!!!pag: pp. 32v-33r
+!!!GTL: Hymnbook A
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2015-04-17
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F

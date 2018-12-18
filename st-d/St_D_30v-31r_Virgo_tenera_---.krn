@@ -1,0 +1,101 @@
+!!!OTL: Virgo tenera 
+**kern
+*staff1
+=1-
+*clefF4
+*k[b-]
+*M3/1
+0G
+1D
+=2
+0D
+1E
+=3
+0D
+1r
+=4
+0C
+1D
+=5
+1D
+0AA
+=6
+0D
+1r
+!!linebreak:original
+=7
+0F
+1E
+=8
+0D
+1E
+=9
+1C
+1F
+1G
+=10
+0D
+1r
+=11
+!!linebreak:original
+0F
+1E
+=12
+0D
+1E
+=13
+1C
+1F
+1G
+=14
+0D
+1r
+=15
+!!linebreak:original
+0D
+1G
+=16
+0F
+1D
+=17
+1G
+0D
+=18
+0G
+1r
+!!linebreak:original
+=19
+0F
+1G
+=20
+1F
+1C
+1F
+=21
+1G
+0D
+=22
+0GG
+==
+*-
+!!title: @{OTL}, @{GTL}, ed. @{ENC}
+!!!pag:
+!!!GTL: Hymnbook D
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2015-0m-dd
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F
+!!!COM: Anonim
+!!!CDT: [?]
+!!!TXO: Polish
+!!!ODT: 
+!!!GTL: Hymnbook D
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	1

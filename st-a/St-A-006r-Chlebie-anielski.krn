@@ -1,0 +1,56 @@
+!!!COM: Anonim
+!!!CDT: [?]
+!!!OTL@@POL: Chlebie anielski
+!!!TXO: Polish
+!!!ODT: 
+!!!GTL: Hymnbook A
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	1
+**kern
+*staff1
+*I"[Alto]
+=1-
+*oclefC3
+*clefG2
+!*k[b-]
+!*met(c|)
+!*M2/2
+2c
+1f
+2e
+0d
+2e
+2e
+1f
+1f
+1e
+0d
+1e
+2r
+2c
+2d
+2e
+1f
+2e
+2f
+1d
+2c
+2d
+0c
+0c
+==
+*-
+!!title: @{OTL}, @{GTL}: @{pag}, ed. @{ENC}
+!!!pag: p. 6r
+!!!GTL: Hymnbook A
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2015-03-14 
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F

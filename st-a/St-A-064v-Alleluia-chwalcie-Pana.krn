@@ -1,0 +1,106 @@
+!!!COM: Wacław z Szamotuł
+!!!CDT: [?]
+!!!OTL@@POL: Alleluia chwalćie pana Boga
+!!!TXO: Polish
+!!!ODT: 
+!!!GTL: Hymnbook A
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	1
+**kern
+*staff1
+*I"[Canto]
+=1-
+*oclefC1
+*clefG2
+!*k[b-]
+*met(c|)
+*M2/1
+2f
+2g
+1c
+=-
+1f
+2f
+2e
+=-
+2d
+2e
+1f
+=-
+1e
+2e
+[2a
+=-
+2a]
+2g
+1a
+=-
+2a
+2a
+2g
+2f
+=-
+1f
+2f
+[2e
+=-
+2e]
+1d
+!!page 65r
+2c
+=-
+1d
+2f
+2e
+=-
+2d
+2f
+1e
+=-
+2e
+1a
+2g
+=-
+1f
+1e
+=-
+2e
+2g
+2a
+2f
+=-
+1e
+2f
+[2e
+=-
+2e]
+1d
+2c
+=-
+1d
+1e
+=-
+2d
+2c
+2d
+2e
+=-
+1d
+2c
+2d;
+==
+*-
+!!title: @{OTL}, @{GTL}: @{pag}, ed. @{ENC}
+!!!pag: pp. 64v-65r
+!!!GTL: Hymnbook A
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2015-03-15
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F

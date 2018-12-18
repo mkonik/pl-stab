@@ -1,0 +1,155 @@
+!!!OTL: Benedicite omnes Angeli
+**kern
+*staff1
+=1-
+*clefC4
+*k[]
+1A
+2G/
+2F/
+=2
+1F
+1G
+=3
+1C
+2G/
+2D/
+=4
+1G
+1D
+=5
+1D
+1G
+=6
+1C
+1G
+=7
+2C/
+2G/
+1F
+1G
+=8
+!!linebreak:original
+2G/
+2G/
+2C/
+2F/
+=9
+!LO:TX:Y=-40:t=P
+1G
+1F
+=10
+!LO:TX:Y=-41:t=P
+1F
+1F
+=11
+0F
+=12
+0C
+=13
+!LO:TX:Y=-44:t=P
+1G
+1F
+=14
+!LO:TX:Y=-45:t=P
+1F
+0E
+0F
+1D
+=15
+!!linebreak:original
+!LO:TX:Y=-44:t=P
+1F
+1C
+=16
+1F
+1D
+=17
+!LO:TX:Y=-46:t=P
+2C/
+2G/
+1F
+1G
+=18
+1G
+1F
+=19
+!LO:TX:Y=-47:t=P
+2G/
+2G/
+1D
+=20
+1G
+1F
+=21
+2G/
+2G/
+1D
+=22
+!!linebreak:original
+1G
+2G/
+2D/
+=23
+1C
+0D
+=24
+!LO:TX:Y=-45:t=P
+1A
+2F/
+2F/
+=25
+!LO:TX:Y=-41:t=P
+2E/
+2F/
+1G
+=26
+1F
+1G
+1C
+=27
+!!linebreak:original
+1F
+2F/
+2F/
+=28
+!LO:TX:Y=-43:t=P
+2E/
+2E/
+1D
+1E
+=29
+1F
+2G/
+2F/
+=30
+2G/
+2E/
+2F/
+2G/
+=31
+1C
+0G
+==
+*-
+!!title: @{OTL}, @{GTL}, ed. @{ENC}
+!!!pag:
+!!!GTL: Hymnbook D
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2015-0m-dd
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F
+!!!COM: Anonim
+!!!CDT: [?]
+!!!TXO: Polish
+!!!ODT: 
+!!!GTL: Hymnbook D
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	1

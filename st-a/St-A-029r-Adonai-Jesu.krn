@@ -1,0 +1,129 @@
+!!!COM: Anonim
+!!!CDT: [?]
+!!!OTL@@POL: Adonaÿ adonaÿ Jesu optime
+!!!TXO: Latin
+!!!ODT: 
+!!!GTL: Hymnbook A
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	1
+**kern
+*staff1
+*I"[Canto]
+*oclefC1
+*clefG2
+*k[]
+*met(c|)
+*M2/1
+=-
+2g
+2dd
+2dd
+2b
+=-
+2dd
+2dd
+2dd
+2b
+=-
+2g
+2g
+2a
+2a
+=-
+0b
+=-
+2b
+2b
+2dd
+2b
+=-
+2cc
+4b
+4a
+2b
+2b
+=-
+2b
+2g
+2f
+2f
+=-
+0g
+=-
+1g
+1g
+=-
+1g
+1g
+=-
+2f
+2g
+1d
+=-
+2g
+2f
+0g
+2g
+2f
+=-
+2g
+2a
+2g
+2f
+=-
+2g
+2a
+2g
+2f
+=-
+0g
+=-
+1g
+1g
+=-
+2g
+2g
+2a
+2a
+=-
+2g
+2a
+2g
+2a
+=-
+2a
+2g
+2a
+2a
+=-
+1g
+!LO:TX:Y=0:t=double with dotted fourth
+2.a
+4a
+=-
+2.g
+4g
+2a
+4a
+4a
+=-
+0b
+=-
+1b
+0b
+==
+*-
+!!title: @{OTL}, @{GTL}: @{pag}, ed. @{ENC}
+!!!pag: p. 29r
+!!!GTL: Hymnbook A
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2015-03-19
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F

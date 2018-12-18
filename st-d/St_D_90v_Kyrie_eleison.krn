@@ -1,0 +1,171 @@
+!!!OTL: Kyrie eleison
+**kern
+*staff1
+=1-
+*clefC4
+*k[]
+0C
+2F/
+2C/
+2C/
+1G
+0C
+=2
+0F
+2F/
+2G/
+1D
+0G;
+=3
+0C
+2F/
+2C/
+2C/
+1G
+0C
+=4
+0C
+2F/
+2C/
+1.G
+2G/
+0C;
+!!linebreak:original
+=5
+0F
+2F/
+2G/
+1.D
+2D/
+0G;
+=6
+1C
+2C/
+2C/
+2F/
+2C/
+1G
+0C;
+=7
+2F/
+2F/
+2F/
+2G/
+1D
+0G
+=8
+!!linebreak:original
+1C
+2C/
+2C/
+2C/
+2C/
+2F/
+2C/
+1G
+0C;
+=9
+1C
+2C/
+2C/
+2C/
+2C/
+1G
+0C;
+=10
+1C
+2C/
+2C/
+2C/
+2C/
+2F/
+2C/
+1G
+1C;
+!!linebreak:original
+=11
+1C
+2F/
+2C/
+1G
+1C;
+1F
+2F/
+2G/
+1D
+1G;
+=12
+1C
+2C/
+2C/
+2F/
+2C/
+1G
+1C;
+=13
+!!linebreak:original
+1C
+2C/
+2C/
+2F/
+2C/
+1G
+1C;
+=14
+1C
+2F/
+1G
+1C;
+1C
+2C/
+2F/
+2F/
+2C/
+2C/
+1G
+1C;
+=15
+!!pagebreak:original
+1C
+2C/
+2F/
+2C/
+1G
+1C;
+1C
+2C/
+2F/
+2F/
+2C/
+2C/
+1G
+1C;
+=16
+1C
+2C/
+2F/
+2F/
+2C/
+=
+*-
+!!title: @{OTL}, @{GTL}, ed. @{ENC}
+!!!pag:
+!!!GTL: Hymnbook D
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2015-0m-dd
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F
+!!!COM: Anonim
+!!!CDT: [?]
+!!!TXO: Polish
+!!!ODT: 
+!!!GTL: Hymnbook D
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	1

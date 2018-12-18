@@ -1,0 +1,70 @@
+!!!COM: Anonim
+!!!CDT: [?]
+!!!OTL@@LAT: De sublimi arce
+!!!TXO: Latin
+!!!ODT: 
+!!!GTL: Hymnbook A
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	1
+**kern
+*staff1
+*I"[Canto]
+=1-
+*oclefC2
+*clefG2
+!*k[b-]
+*met(c|)
+*M2/1
+1cc
+1dd
+=2
+1cc
+1a
+=3
+1cc
+1b
+=4
+1cc
+1a
+=5
+1g
+2g
+2b
+=6
+1g
+1f
+=7
+1cc
+1b
+=8
+1cc
+1a
+=9
+1g
+1g
+=10
+1.cc
+2b
+=11
+1a
+1g
+=12
+0f
+=13
+0g
+==
+*-
+!!title: @{OTL}, @{GTL}: @{pag}, ed. @{ENC}
+!!!pag: p. 19v
+!!!GTL: Hymnbook A
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2015-02-13
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F

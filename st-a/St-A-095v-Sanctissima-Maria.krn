@@ -1,0 +1,77 @@
+!!!COM: Anonim
+!!!CDT: [?]
+!!!OTL@@LAT: Sanctissima Maria Dei plena
+!!!TXO: Latin
+!!!ODT: 
+!!!GTL: Hymnbook A
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	1
+**kern
+*staff1
+*I"[Canto]
+*oclefG2
+*clefG2
+*k[]
+*met(c|)
+*M2/1
+=-
+2dd
+2dd
+4cc
+4cc
+2ee
+2dd
+2cc
+2ff
+2ee
+2dd
+2cc
+2.dd
+4cc
+4b
+1cc#
+=-
+!LO:TX:Y=0:t=p. 96r
+2a
+2cc
+4b
+2a#
+4g
+4a
+4dd
+2ee
+4ee
+2dd
+4cc
+2dd
+2dd
+2dd
+2dd
+2.dd
+4dd
+2dd
+2ff
+2ee
+2dd
+2dd
+2.dd
+4cc
+4b
+2cc
+0dd
+==
+*-
+!!title: @{OTL}, @{GTL}: @{pag}, ed. @{ENC}
+!!!pag: pp. 95v-96r
+!!!GTL: Hymnbook A
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2015-04-20
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F

@@ -1,0 +1,103 @@
+!!!OTL: Veri solis radius
+**kern
+*staff1
+=1-
+*clefF3
+*k[b-]
+*met(c|)
+*M2/2
+1F
+1F
+=2
+1F
+1D
+=3
+1G
+2.D/
+4E/
+=4
+0F
+!!linebreak:original
+=5
+1F
+2D/
+2F\
+=6
+1G
+2F\
+2G\
+=7
+0C
+=8
+0D
+=9
+0C
+=10
+!!linebreak:original
+0c
+=11
+1F
+1F
+=12
+1G
+2.D/
+4E/
+=13
+0F
+=14
+!!linebreak:original
+1D
+1E
+=15
+1F
+1C
+=16
+0D
+=17
+0C
+=18
+!!linebreak:original
+0c
+=19
+1F
+1F
+=20
+1G
+2.D/
+4E/
+=21
+0F
+=22
+!!pagebreak:original
+1D
+1E
+=23
+1F
+1C
+=24
+0D
+=25
+0C
+==
+*-
+!!title: @{OTL}, @{GTL}, ed. @{ENC}
+!!!pag:
+!!!GTL: Hymnbook D
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2015-0m-dd
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F
+!!!COM: Anonim
+!!!CDT: [?]
+!!!TXO: Polish
+!!!ODT: 
+!!!GTL: Hymnbook D
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	1

@@ -1,0 +1,91 @@
+!!!COM: Anonim
+!!!CDT: [?]
+!!!OTL@@LAT: O sine labe intensa
+!!!OTL@@POL: O zorzo zawdy iasna
+!!!TXO: Latin, Polish
+!!!ODT: 
+!!!GTL: Hymnbook A
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	1
+**kern
+*staff1
+*I"[Canto]
+*oclefG3
+*clefG2
+!*k[b-]
+*met(c|)
+*M2/1
+=-
+1.f
+2g
+1a
+1a
+1g
+1f
+2.g
+4f
+4e
+4d
+1e
+1f
+1r
+1f
+1g
+1f
+1b
+1a
+2g
+2g
+1g
+=-
+2cc
+2cc
+2cc
+2a
+2cc
+2b
+2a
+2f
+2cc
+2cc
+=-
+!LO:TX:Y=0:t=p. 26r
+2cc
+2a
+2cc
+2b
+2a
+2.f
+4a
+4b
+4g
+2a
+2.f
+4a
+4b
+4g
+2a
+2f
+2.cc
+4b
+2a
+1g
+1f
+2e
+0f
+==
+*-
+!!title: @{OTL}, @{GTL}: @{pag}, ed. @{ENC}
+!!!pag: pp. 25v-26r
+!!!GTL: Hymnbook A
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2015-03-19
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F

@@ -1,0 +1,88 @@
+!!!COM: Anonim
+!!!CDT: [?]
+!!!OTL@@POL: Nusz mÿ dzis krzesciani
+!!!TXO: Polish
+!!!ODT: 
+!!!GTL: Hymnbook A
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	1
+**kern
+*staff1
+*I"[Canto]
+=1-
+*oclefC1
+*clefG2
+!*k[b-]
+*met(c|)
+*M2/1
+!LO:TX:Y=0:Z=20:t=page 31v
+1d
+1f
+=-
+1e
+1d
+=-
+1c
+1d
+=-
+0e
+=-
+1d
+1f
+=-
+1e
+1d
+=-
+1c
+1d
+=-
+0e
+=-
+1d
+1e
+=-
+1d
+1c
+=-
+0d
+=:|:
+!LO:TX:Y=0:Z=20:t=page 32r
+2d
+2c
+2d
+2e
+=-
+1d
+1c
+=-
+2d
+2c
+2d
+2e
+=-
+1d
+1c
+=-
+1f
+1e
+=-
+1d
+1c
+=-
+0d;
+==
+*-
+!!title: @{OTL}, @{GTL}: @{pag}, ed. @{ENC}
+!!!pag: pp. 31v-32r
+!!!GTL: Hymnbook A
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2015-04-17
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F

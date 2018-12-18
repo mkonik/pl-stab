@@ -1,0 +1,106 @@
+!!!COM: Anonim
+!!!CDT: [?]
+!!!OTL@@LAT: Spiritus sancti gracia
+!!!OTL@@POL: Pan Jezus dnia dzisieÿszego
+!!!TXO: Latin, Polish
+!!!ODT: 
+!!!GTL: Hymnbook A
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	1
+!! over staff voice name: Wtorÿ Discant. [Second Discantus]
+**kern
+*staff1
+*I"[Canto]
+=1-
+*oclefC1
+*clefG2
+!*k[b-]
+!*met(c|)
+*M2/1
+2.g
+4a
+2b
+2b
+=-
+1a
+2a
+2b
+=-
+2a
+2.g
+4a
+2b
+=-
+1a
+2r
+2g
+=-
+2b
+2b
+1cc
+=-
+2a
+2dd
+2cc
+2b
+=-
+2cc
+!!page 100r
+2a
+1a
+=-
+2r
+2a
+2cc
+2b
+=-
+1a
+2a
+[2g
+=-
+4g]
+4a
+4b
+4cc
+2dd
+2g
+=-
+2dd
+2a
+1b
+=-
+2r
+2dd
+2b
+2g
+=-
+1cc
+2cc
+2a
+=-
+1g
+2r
+[2a
+=-
+2a]
+2b
+2cc
+2a
+=-
+0b
+==
+*-
+!!title: @{OTL}, @{GTL}: @{pag}, ed. @{ENC}
+!!!pag: pp. 99v-100r
+!!!GTL: Hymnbook A
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2015-04-17
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F

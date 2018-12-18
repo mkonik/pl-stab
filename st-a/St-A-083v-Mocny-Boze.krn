@@ -1,0 +1,81 @@
+!!!COM: Anonim
+!!!CDT: [?]
+!!!OTL@@POL: Mocznÿ Boze zwÿsokosci
+!!!TXO: Polish
+!!!ODT: 
+!!!GTL: Hymnbook A
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	1
+**kern
+*staff1
+*I"Basso
+=1-
+*oclefG2
+*clefG2
+*k[b-]
+!*met(c|)
+*M3/1
+1r
+1r
+1g
+=-
+1.a
+2b-
+1cc
+=-
+0dd
+1ee
+=-
+1dd
+1cc
+1dd
+=-
+0.a
+=-
+1r
+1r
+1dd
+=-
+0cc
+1a
+=-
+0cc
+1b-
+=-
+1a
+0g
+=-
+0.f
+!!page 84r
+=-
+1r
+1r
+1f
+=-
+1.a
+2b-
+1cc
+=-
+0g
+1g
+=-
+1a
+0b-
+=-
+0.a
+==
+*-
+!!title: @{OTL}, @{GTL}: @{pag}, ed. @{ENC}
+!!!pag: pp. 83v-84r
+!!!GTL: Hymnbook A
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2015-03-25
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F

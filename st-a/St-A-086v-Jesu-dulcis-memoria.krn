@@ -1,0 +1,110 @@
+!!!COM: Anonim
+!!!CDT: [?]
+!!!OTL@@LAT: Jesu dulcis memoria
+!!!OTL@@POL: Panie Jezu Christe miłÿ
+!!!TXO: Latin, Polish
+!!!ODT: 
+!!!GTL: Hymnbook A
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	1
+**kern
+*staff1
+*I"[Canto]
+=1-
+*oclefC1
+*clefG2
+!*k[b-]
+*met(c)
+*M2/2
+2cc
+2cc
+=2
+2b
+2b
+=3
+2a
+[2g
+=4
+2g]
+2f
+=5
+1g
+=6
+2r
+2cc
+=7
+2cc
+2b
+=8
+2dd
+2cc
+=9
+2cc
+[2b
+=10
+2b]
+[2cc
+=11
+2cc]
+2r
+!!page 84r
+=12
+2cc
+2b
+=13
+2b
+[2a
+=14
+2a]
+2g
+=15
+1a
+=16
+1g
+=17
+2f
+[2g
+=18
+2g]
+2r
+=19
+2g
+2g
+=20
+2g
+2a
+=21
+2b
+2e
+=22
+1cc
+=23
+2b
+[2cc
+=24
+2cc]
+2r
+=25
+2a
+2a
+=26
+2.a
+4a
+=27
+0g
+==
+*-
+!!title: @{OTL}, @{GTL}: @{pag}, ed. @{ENC}
+!!!pag: pp. 83v-84r
+!!!GTL: Hymnbook A
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2015-03-15
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F

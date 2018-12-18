@@ -1,0 +1,67 @@
+!!!OTL: Alleluia lauda eum
+**kern
+*staff1
+=1-
+*clefC4
+*k[]
+*met(c|)
+*M2/2
+1c
+1A
+=2
+1c
+0G
+0c
+1A
+=3
+1c
+0G
+=4
+!!linebreak:original
+1G
+1G
+=5
+1G
+1c
+=6
+1A
+1G
+!!linebreak:original
+=7
+2G/
+2G/
+2G/
+2c\
+=8
+1A
+1G
+=9
+0A
+=10
+1F
+1G
+=11
+0C
+==
+*-
+!!title: @{OTL}, @{GTL}, ed. @{ENC}
+!!!pag:
+!!!GTL: Hymnbook D
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2015-0m-dd
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F
+!!!COM: Anonim
+!!!CDT: [?]
+!!!TXO: Polish
+!!!ODT: 
+!!!GTL: Hymnbook D
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	1

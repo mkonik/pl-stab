@@ -1,0 +1,60 @@
+!!!OTL: Stabat mater dolorosa
+**kern
+*staff1
+=1-
+*clefF4
+*k[b-]
+*M3/1
+1FF
+2C/
+1AA
+2GG/
+=2
+1BB-
+2FF/
+1C
+2FF/
+=3
+1FF
+2BB-/
+1FF
+2C/
+=4
+!!linebreak:original
+1BB-
+2FF/
+1C
+2FF/
+=5
+!LO:TX:Y=-33:t=P
+1C
+2GG/
+1C
+2FF/
+=6
+1C
+2C/
+0FF
+==
+*-
+!!title: @{OTL}, @{GTL}, ed. @{ENC}
+!!!pag:
+!!!GTL: Hymnbook D
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2015-0m-dd
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F
+!!!COM: Anonim
+!!!CDT: [?]
+!!!TXO: Polish
+!!!ODT: 
+!!!GTL: Hymnbook D
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	1

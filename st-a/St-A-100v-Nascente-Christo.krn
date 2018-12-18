@@ -1,0 +1,103 @@
+!!!COM: Anonim
+!!!CDT: [?]
+!!!OTL@@LAT: Nascente Christo Domino
+!!!OTL@@POL: Trzeÿ krolowie prziiechali
+!!!TXO: Latin, Polish
+!!!ODT: 
+!!!GTL: Hymnbook A
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	1
+**kern
+*staff1
+*I"[Canto]
+*oclefG2
+*clefG2
+*k[b-]
+!*met(c|)
+*M3/1
+=-
+!LO:TX:Y=0:t=p. 100v
+1r
+1r
+1g
+=-
+0g
+1g
+=-
+0dd
+1dd
+=-
+0ee
+1dd
+=-
+0cc
+1r
+=-
+0r
+1r
+=-
+0r
+1dd
+=-
+0dd
+1ff
+=-
+0ee
+1dd
+=-
+0cc
+1b-
+=-
+0a
+1r
+=-
+0r
+1r
+=-
+1r
+0b-
+1a
+=-
+0b-
+1cc
+=-
+!LO:TX:Y=0:t=p. 101r
+0dd
+=-
+0g
+1g
+=-
+0b-
+1a
+=-
+0b-
+1cc
+=-
+0dd
+=-
+0g
+1cc
+=-
+1b-
+1a
+=-
+0a
+0g
+1f
+0g
+==
+*-
+!!title: @{OTL}, @{GTL}: @{pag}, ed. @{ENC}
+!!!pag: pp. 100v-101r
+!!!GTL: Hymnbook A
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2015-04-27
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F

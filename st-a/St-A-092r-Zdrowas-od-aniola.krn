@@ -1,0 +1,83 @@
+!!!COM: Anonim
+!!!CDT: [?]
+!!!OTL@@POL: Zdrowaś od Angioła
+!!!TXO: Polish
+!!!ODT: 
+!!!GTL: Hymnbook A
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	1
+**kern
+*staff1
+*I"[Canto]
+=1-
+*oclefC1
+*clefG2
+!*k[b-]
+!*met(c|)
+*M2/1
+1d
+1d
+=2
+1e
+[1f
+=3
+2f]
+2e
+1d
+=4
+0c
+=5
+1e
+1e
+=6
+2c
+2d
+2e
+2f
+=7
+1e
+[1d
+=8
+1d]
+1c
+=9
+0d
+=10
+1f
+1e
+=11
+1f
+[1a
+=12
+1a]
+1g
+=13
+0a
+=14
+0e
+=15
+0f
+=16
+1e
+[1d
+=17
+1d]
+1c
+=18
+0d
+==
+*-
+!!title: @{OTL}, @{GTL}: @{pag}, ed. @{ENC}
+!!!pag: p. 92r
+!!!GTL: Hymnbook A
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2015-03-15
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F

@@ -1,0 +1,134 @@
+!!!COM: Anonim
+!!!CDT: [?]
+!!!OTL@@LAT: Aue in euum sanctissima
+!!!TXO: Latin
+!!!ODT: 
+!!!GTL: Hymnbook A
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	1
+**kern
+*staff1
+*I"[Canto]
+*oclefC1
+*clefG2
+*k[]
+*met(c|)
+*M2/1
+=-
+0f
+1g
+1a
+0b
+1a
+1g
+1.a
+2g
+1f
+0f
+1e
+0f;
+=-
+1a
+2f
+2g
+1a
+1a
+1a
+1b
+2a
+1a
+2g
+0a;
+=-
+1a
+1f
+1g
+1a
+0b
+0a;
+0a
+1g
+1a
+1.b
+2a
+1g
+0f
+1e
+0f;
+=-
+1a
+1a
+1a
+2g
+2g
+1a
+1g
+1a
+2a
+1a
+4g
+4f
+1g
+1f
+1b
+2b
+1b
+2b
+1a
+2a
+1b
+1a
+2g
+1a
+1a
+2f
+1e
+2d
+0e
+=-
+1e
+2e
+2e
+1f
+1d
+2e
+2e
+0f;
+=-
+1f
+1cc
+1f
+1g
+0a;
+=-
+1a
+2g
+2a
+1b
+1b
+1.a
+2b
+1cc
+1b
+1a
+1g
+1a
+0f
+1e
+0f
+==
+*-
+!!title: @{OTL}, @{GTL}: @{pag}, ed. @{ENC}
+!!!pag: p. 44v
+!!!GTL: Hymnbook A
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2015-03-05
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F

@@ -1,0 +1,77 @@
+!!!COM: Anonim
+!!!CDT: [?]
+!!!OTL@@LAT: Universi populi
+!!!TXO: Latin
+!!!ODT: 
+!!!GTL: Hymnbook A
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	1
+**kern
+*staff1
+*I"[Canto]
+=1-
+*oclefC1
+*clefG2
+!*k[b-]
+!*met(c|)
+*M3/1
+0a
+1a
+=2
+0g
+1e
+=3
+0g
+1f
+=4
+0e
+1e
+=5
+1g
+0a
+=6
+1g
+0a
+=7
+0.a
+=8
+0a
+1b
+=9
+0b
+1b
+=10
+0g
+1g
+=11
+0cc
+[1g
+=12
+1g]
+1a
+[1a
+=13
+1a]
+1g
+[1a
+=14
+1a]
+0a
+=15
+0.a
+==
+*-
+!!title: @{OTL}, @{GTL}: @{pag}, ed. @{ENC}
+!!!pag: p. 21r
+!!!GTL: Hymnbook A
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2015-04-07
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F

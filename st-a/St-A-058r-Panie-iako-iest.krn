@@ -1,0 +1,73 @@
+!!!COM: Anonim
+!!!CDT: [?]
+!!!OTL@@POL: Panie panie iako iest przedziwne
+!!!TXO: Polish
+!!!ODT: 
+!!!GTL: Hymnbook A
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	1
+**kern
+*staff1
+*I"[Canto]
+=1-
+*oclefG2
+*clefG2
+*k[b-]
+!*met(c|)
+*M2/1
+2r
+2b-
+1b-
+=-
+2.dd
+4cc
+2b-
+2a
+=-
+1b-
+2a
+[2ff
+=-
+2ff]
+2ee
+2dd
+[2dd
+=-
+2dd]
+2cc
+1dd
+=-
+2r
+2dd
+2dd
+2cc
+=-
+2b-
+2a
+1g
+=-
+2f
+1b-
+2a
+=-
+2g
+1g
+2f
+=-
+0g
+==
+*-
+!!title: @{OTL}, @{GTL}: @{pag}, ed. @{ENC}
+!!!pag: p. 58r
+!!!GTL: Hymnbook A
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2015-04-20
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F

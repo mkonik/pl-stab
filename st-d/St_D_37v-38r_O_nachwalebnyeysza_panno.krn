@@ -1,0 +1,77 @@
+!!!OTL: O nachwalebnyeysza panno
+**kern
+*staff1
+=1-
+*clefF4
+*k[b-]
+*met(c|)
+*M2/2
+1G
+1G
+=2
+2G\
+1G
+2F\
+=3
+2D\
+2C/
+1D;
+!!linebreak:original
+=4
+1C
+1BB-
+=5
+2F\
+1BB-
+1F
+2G\
+=6
+1D
+1GG;
+!!linebreak:original
+=7
+1G
+1F
+=8
+2BB-/
+2F\
+1G
+=9
+2G\
+2E\
+1F
+=10
+!!linebreak:original
+1BB-
+1F
+=11
+2G\
+1D
+1F
+2G\
+=12
+1D
+0GG
+==
+*-
+!!title: @{OTL}, @{GTL}, ed. @{ENC}
+!!!pag:
+!!!GTL: Hymnbook D
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2015-0m-dd
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F
+!!!COM: Anonim
+!!!CDT: [?]
+!!!TXO: Polish
+!!!ODT: 
+!!!GTL: Hymnbook D
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	1

@@ -1,0 +1,119 @@
+!!!COM: Anonim
+!!!CDT: [?]
+!!!OTL@@LAT: Aue martir gloriosa Catherina
+!!!TXO: Latin
+!!!ODT: 
+!!!GTL: Hymnbook A
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	1
+**kern
+*staff1
+*I"[Canto]
+*oclefC1
+*clefG2
+*k[]
+*met(c|)
+*M2/1
+=-
+0f
+0g
+1a
+1a
+1a
+2g
+1cc
+4b
+4a
+1g
+0a;
+=-
+1f
+1e
+1f
+1f
+1g
+1.f
+4g
+4f
+1g
+0a
+=-
+!LO:TX:Y=0:t=p. 62r
+1f
+1f
+1g
+1a
+2g
+1f
+4e
+4d
+0e
+0f;
+=-
+1a
+1a
+1b
+1cc
+2dd
+1cc
+2b
+0cc;
+0cc
+1cc
+0a
+1a
+1b
+1b
+0a
+0a;
+=-
+!LO:TX:Y=0:t=p. 62r
+1a
+1g
+1a
+2a
+1.cc
+2b
+1a
+4g
+4f
+1g
+0a;
+=-
+!LO:TX:Y=0:t=p. 61v
+1dd
+1dd
+1cc
+1b
+1a
+1g
+1.a
+2b
+0cc;
+0a
+0b
+1a
+1a
+1a
+2g
+1f
+4e
+4d
+1e
+0f
+==
+*-
+!!title: @{OTL}, @{GTL}: @{pag}, ed. @{ENC}
+!!!pag: pp. 61v-62r
+!!!GTL: Hymnbook A
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2015-03-07
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F

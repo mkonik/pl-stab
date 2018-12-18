@@ -1,0 +1,96 @@
+!!!COM: Anonim
+!!!CDT: [?]
+!!!OTL@@LAT: Gratanter iubilemus omnes
+!!!TXO: Latin
+!!!ODT: 
+!!!GTL: Hymnbook A
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	1
+**kern
+*staff1
+*I"[Canto]
+*oclefC1
+*clefG2
+!*k[b-]
+*met(c|)
+*M2/1
+=-
+1f
+1cc
+1a
+2a
+2g
+2a
+2.b
+4a
+1a
+2g
+0a
+=-
+2b
+2a
+2g
+2g
+4g
+4f
+1f
+2e
+0f
+0f
+2cc
+2cc
+2cc
+2b
+1cc
+0a
+1a
+2a
+2g
+2a
+=-
+!LO:TX:Y=0:t=p. 28r
+2.b
+4a
+1a
+2g
+0a
+2b
+2a
+2g
+1g
+1f
+2e
+0f
+=-
+1cc
+1a
+0cc
+2cc
+2dd
+2cc
+2b
+0cc
+1cc
+1a
+0cc
+2cc
+2dd
+2cc
+2b
+0cc
+==
+*-
+!!title: @{OTL}, @{GTL}: @{pag}, ed. @{ENC}
+!!!pag: pp. 27v-28v
+!!!GTL: Hymnbook A
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2015-04-05
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F

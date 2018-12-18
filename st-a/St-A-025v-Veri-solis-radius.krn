@@ -1,0 +1,100 @@
+!!!COM: Anonim
+!!!CDT: [?]
+!!!OTL@@LAT: Veri solis radius natus est
+!!!TXO: Latin
+!!!ODT: 
+!!!GTL: Hymnbook A
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	1
+**kern
+*staff1
+*I"[Canto]
+*oclefC2
+*clefG2
+!*k[b-]
+*met(c|)
+*M2/1
+=-
+!LO:TX:Y=0:t=p. 25v
+1d
+1a
+=-
+1a
+1d
+=-
+1a
+1g
+=-
+0f
+=-
+1a
+2g
+2f
+=-
+1g
+2f
+2e
+=-
+1f
+1d
+=-
+0c
+=-
+1.d
+2e
+=-
+1f
+!LO:TX:Y=0:t=p. 26r
+1f
+=-
+1g
+1g
+=-
+0f
+=-
+1d
+1e
+=-
+1d
+1c
+=-
+0d
+=-
+0c
+=-
+1.d
+2e
+=-
+1f
+1f
+=-
+1g
+1g
+=-
+0f
+=-
+1d
+1e
+=-
+1d
+1c
+=-
+0d
+=-
+0c
+==
+*-
+!!title: @{OTL}, @{GTL}: @{pag}, ed. @{ENC}
+!!!pag: pp. 25v-26r
+!!!GTL: Hymnbook A
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2015-03-20
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F

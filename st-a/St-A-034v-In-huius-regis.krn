@@ -1,0 +1,120 @@
+!!!COM: Anonim
+!!!CDT: [?]
+!!!OTL@@LAT: In huius regis glorie
+!!!OTL@@POL: Dziękuÿmÿ Bogu i Panu
+!!!TXO: Latin, Polish
+!!!ODT: 
+!!!GTL: Hymnbook A
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	1
+**kern
+*staff1
+*I"[Canto]
+*oclefC1
+*clefG2
+*k[]
+*met(c|)
+*M2/1
+=-
+2cc
+1a
+2a
+1b
+2g
+1a
+2cc
+1b
+2g
+1cc
+2a
+1dd
+2c
+2c
+1b
+0cc
+=-
+1cc
+2cc
+1b
+2g
+!LO:TX:Y=0:t=p. 35r
+1a
+2a
+1g
+2e
+1f
+2f
+1e
+2c
+1g
+2g
+1c
+2c
+1e
+2e
+2e
+2c
+2B
+!LO:TX:Y=0:t=over staff "przewroć"
+0c
+=-
+!LO:TX:Y=0:t=p. 35v
+0cc
+1a
+1f
+1b
+1g
+1a
+1f
+1f
+1g
+1e
+1g
+1g
+1a
+0b
+0cc;
+=-
+!LO:TX:Y=0:t=p. 36r
+1dd
+2dd
+2cc
+1b
+1a
+1dd
+2dd
+2cc
+1b
+1a
+1g
+1cc
+1a
+1.dd
+2cc
+2b
+2a
+1g
+1cc
+1b
+2a
+2g
+1a
+0g
+1f
+0g
+==
+*-
+!!title: @{OTL}, @{GTL}: @{pag}, ed. @{ENC}
+!!!pag: pp. 34v-36r
+!!!GTL: Hymnbook A
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2015-03-12
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F

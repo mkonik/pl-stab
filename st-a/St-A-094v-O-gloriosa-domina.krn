@@ -1,0 +1,71 @@
+!!!COM: Anonim
+!!!CDT: [?]
+!!!OTL@@LAT: O gloriosa Domina
+!!!TXO: Latin
+!!!ODT: 
+!!!GTL: Hymnbook A
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	1
+**kern
+*staff1
+*I"[Canto]
+*oclefC1
+*clefG2
+*k[]
+*met(c|)
+*M2/1
+=-
+2a
+4g
+4a
+2cc
+2b
+2.a
+8f
+8a
+1g
+=-
+2cc
+4b
+4cc
+2a
+2g
+2a
+2a
+1b
+=-
+!LO:TX:Y=0:t=p. 95r
+2g
+4g
+4g
+2a
+2g
+2.a
+8f
+8a
+1g
+=-
+2g
+4e
+4d
+2e
+2g
+2a
+2a
+0g
+==
+*-
+!!title: @{OTL}, @{GTL}: @{pag}, ed. @{ENC}
+!!!pag: pp. 94v-95r
+!!!GTL: Hymnbook A
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2015-04-15
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F

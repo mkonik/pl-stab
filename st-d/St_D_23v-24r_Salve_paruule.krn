@@ -1,0 +1,141 @@
+!!!OTL: Salve paruule
+**kern
+*staff1
+=1-
+*clefF4
+*k[]
+2A\
+2G\
+2A\
+2A\
+=2
+1E
+0r
+=3
+1r
+2A\
+2G\
+=4
+2A\
+2A\
+1E
+!!linebreak:original
+=5
+2E\
+2F\
+2E\
+2E\
+=6
+2AA/
+2AA/
+2E\
+2F\
+=7
+2E\
+2E\
+1AA;
+=8
+!!linebreak:original
+2A\
+2A\
+2G\
+2F\
+=9
+2.E\
+4F\
+2A\
+2c\
+=10
+2.B\
+4A\
+2G\
+2A\
+=11
+0r
+0r
+0r
+=12
+!!linebreak:original
+2A\
+2G\
+2A\
+2A\
+1E
+0r
+=13
+1r
+2A\
+2G\
+2A\
+2A\
+=14
+2E\
+1E
+2F\
+2E\
+2E\
+0AA
+!!linebreak:original
+=15
+*M3/1
+1A
+2G\
+1C
+2C/
+=16
+1G
+2G\
+1G
+2G\
+=17
+1C
+2G\
+2A\
+1E
+=18
+!LO:TX:Y=-46:t=P
+1A
+2G\
+1C
+!!pagebreak:original
+=19
+2C/
+1G
+2G\
+1G
+2A\
+=20
+2F\
+1E
+1A
+2A\
+=21
+1G
+2A\
+2F\
+1E
+=22
+0AA
+==
+*-
+!!title: @{OTL}, @{GTL}, ed. @{ENC}
+!!!pag:
+!!!GTL: Hymnbook D
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2015-0m-dd
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F
+!!!COM: Anonim
+!!!CDT: [?]
+!!!TXO: Polish
+!!!ODT: 
+!!!GTL: Hymnbook D
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	1

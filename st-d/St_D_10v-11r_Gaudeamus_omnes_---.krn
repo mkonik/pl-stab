@@ -1,0 +1,164 @@
+!!!OTL: Gaudeamus omnes
+**kern
+*staff1
+=1-
+*clefC4
+*k[]
+!LO:TX:Y=116:t=P
+1C
+1D
+0D
+0A
+1c
+0A
+=2
+1A
+2G/
+2G/
+2F/
+2F/
+1G
+=3
+1C
+2G/
+2D/
+2G/
+2G/
+1D
+=4
+1D
+1G
+1C
+1G
+=5
+2C/
+2G/
+1F
+1G
+=6
+!!linebreak:original
+2G/
+2G/
+2C/
+2F/
+1G
+1F
+1F
+1F
+1F
+0F
+0C
+1G
+1F
+1F
+0E
+0F
+1D
+=7
+1F
+1C
+1F
+1D
+2C/
+2G/
+1F
+1G
+=8
+!!linebreak:original
+1G
+1F
+2G/
+2G/
+1D
+1G
+1F
+2G/
+2G/
+1D
+1G
+2G/
+2D/
+1C
+1D
+=9
+1D
+1G
+1F
+1G
+=10
+!LO:TX:Y=-195:t=P
+1F
+2G/
+2D/
+1C
+1D
+=11
+!!linebreak:original
+1D
+1G
+1F
+1G
+=12
+!LO:TX:Y=-199:t=P
+1F
+2G/
+2F/
+2G/
+2E/
+2F/
+2G/
+=13
+0G
+0C
+=14||
+1A
+2F/
+2F/
+2E/
+2F/
+1G
+1F
+1G
+1C
+=15
+!!linebreak:original
+1F
+2F/
+2F/
+2E/
+2G/
+1F
+1G
+=16
+1F
+2G/
+2F/
+2G/
+2E/
+2F/
+2G/
+0C
+0G
+==
+*-
+!!title: @{OTL}, @{GTL}, ed. @{ENC}
+!!!pag:
+!!!GTL: Hymnbook D
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2015-0m-dd
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F
+!!!COM: Anonim
+!!!CDT: [?]
+!!!TXO: Polish
+!!!ODT: 
+!!!GTL: Hymnbook D
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	1

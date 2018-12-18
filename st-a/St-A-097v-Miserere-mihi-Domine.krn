@@ -1,0 +1,145 @@
+!!!COM: Anonim
+!!!CDT: [?]
+!!!OTL@@LAT: Miserere mihi Domine
+!!!OTL@@POL: Racz okazać miłosciwÿ Panie
+!!!TXO: Latin, Polish
+!!!ODT: 
+!!!GTL: Hymnbook A
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	1
+**kern
+*staff1
+*I"[Alto]
+*oclefC3
+*clefGv2
+*k[]
+!*met(c|)
+*M2/1
+=-
+1A
+2d
+2d
+2e
+2e
+2d
+2d
+2c
+2c
+1.B
+2c
+2B
+2c
+2d
+1e
+1e
+2d
+2c
+1B
+1A
+=-
+!LO:TX:Y=0:t=p. 98r
+1A
+2d
+2d
+2e
+2e
+2d
+2d
+2.c
+4c
+2c
+1.B
+2c
+2B
+2c
+2d
+1e
+1e
+2d
+2c
+2B
+2B
+1.A
+=-
+!LO:TX:Y=0:t=p. 97v
+0B
+2c
+2B
+2c
+2B
+2c
+2c
+1.d
+2e
+2e
+2d
+2d
+2e
+2e
+2d
+2d
+1c
+1c
+0B
+=-
+2.f
+4e
+2d
+2c
+!LO:TX:Y=0:t=p 98r
+4d
+4d
+4d
+4c
+2B
+2A
+4B
+4A
+4B
+4c
+4d
+4B
+2c
+2c
+2B
+2A
+2A
+0G
+=-
+2.f
+4e
+2d
+2c
+2.d
+4d
+2c
+2B
+2A
+!LO:TX:Y=0:t=p. 97v
+4B
+4A
+4B
+4c
+4d
+4B
+2c
+2c
+2B
+1A
+0G
+==
+*-
+!!title: @{OTL}, @{GTL}: @{pag}, ed. @{ENC}
+!!!pag: pp. 97v-98r
+!!!GTL: Hymnbook A
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2015-03-17
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F

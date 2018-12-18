@@ -1,0 +1,85 @@
+!!!OTL: Urząd zbawienia ludzkiego
+**kern
+*staff1
+=1-
+*clefC3
+*k[b-]
+1c
+1c
+=2
+2d\
+2e\
+2f\
+2g\
+=3
+1d
+1G
+=4
+!!linebreak:original
+2c\
+2c\
+4F/
+4G/
+4A/
+4B-/
+=5
+2c\
+2G/
+2B-/
+2c\
+=6
+1G
+1c
+=7
+!!linebreak:original
+2c\
+2c\
+1F
+=8
+1B-
+4G/
+4A/
+4B-/
+4c\
+=9
+1d
+1G
+=10
+!!linebreak:original
+2f\
+2g\
+1d
+=11
+1c
+2.F/
+4G/
+=12
+4A/
+4B-/
+2c\
+1G
+=13
+0c
+==
+*-
+!!title: @{OTL}, @{GTL}, ed. @{ENC}
+!!!pag:
+!!!GTL: Hymnbook D
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2015-0m-dd
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F
+!!!COM: Anonim
+!!!CDT: [?]
+!!!TXO: Polish
+!!!ODT: 
+!!!GTL: Hymnbook D
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	1

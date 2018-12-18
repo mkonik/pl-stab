@@ -1,0 +1,80 @@
+!!!COM: Anonim
+!!!CDT: [?]
+!!!OTL@@POL: Nasz Zbawiciel pan wszechmogacÿ
+!!!TXO: Polish
+!!!ODT: 
+!!!GTL: Hymnbook A
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	1
+**kern
+*staff1
+*I"[Canto]
+*oclefG2
+*clefG2
+*k[b-]
+!*met(c|)
+*M2/1
+=-
+!LO:TX:Y=0:t=meter missing, noted on six lines
+1dd
+2.cc
+4b-
+2a
+2g
+1f
+2.a
+4b-
+2cc
+2.dd
+4ee
+2ff
+1dd
+0cc
+2.dd
+4ee
+2ff
+2dd
+1ee
+1a
+1g
+2g
+2.a
+4g
+2f
+1e
+0a
+2e
+2d
+1c
+0d
+=-
+2.f
+4g
+4a
+4b-
+2cc
+1b-
+1a
+2.cc
+4b-
+2cc
+1a
+2dd
+1cc
+0dd
+==
+*-
+!!title: @{OTL}, @{GTL}: @{pag}, ed. @{ENC}
+!!!pag: p. 4v
+!!!GTL: Hymnbook A
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2015-04
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F

@@ -1,0 +1,93 @@
+!!!OTL: Iesu paruule nate hodie
+**kern
+*staff1
+=1-
+*clefF4
+*k[]
+*met(c|)
+*M2/2
+1F
+1F
+=2
+1C
+1C
+=3
+0FF
+=4
+1F
+1F
+=5
+1C
+1C
+=6
+!LO:TX:Y=124:t=P
+0FF
+=7
+!!linebreak:original
+*M3/1
+0F
+1F
+=8
+0G
+1D
+=9
+0E
+1F
+=10
+0C
+1FF
+=11
+!!linebreak:original
+0F
+1F
+=12
+0G
+1D
+=13
+0E
+1F
+=14
+0C
+1FF
+!!linebreak:original
+=15
+*met(c|)
+*M2/2
+1F
+1F
+=16
+1C
+1C
+=17
+0FF
+=18
+1F
+1F
+=19
+1C
+1C
+=20
+0FF
+==
+*-
+!!title: @{OTL}, @{GTL}, ed. @{ENC}
+!!!pag:
+!!!GTL: Hymnbook D
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2015-0m-dd
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F
+!!!COM: Anonim
+!!!CDT: [?]
+!!!TXO: Polish
+!!!ODT: 
+!!!GTL: Hymnbook D
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	1

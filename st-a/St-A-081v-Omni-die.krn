@@ -1,0 +1,80 @@
+!!!COM: Anonim
+!!!CDT: [?]
+!!!OTL@@LAT: Omni die dic marie
+!!!TXO: Latin
+!!!ODT: 
+!!!GTL: Hymnbook A
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	1
+**kern
+*staff1
+*I"[Canto]
+=1-
+*oclefG2
+*clefG2
+!*k[b-]
+*met(c|)
+*M2/1
+2cc
+2dd
+1ee
+=-
+1ff
+2ee
+2dd
+=-
+1cc
+1b;
+=-
+2cc
+2dd
+1ee
+=-
+2ff
+2.dd
+4cc
+2dd
+=-
+1ee;
+2b
+2a
+=-
+1b
+2b
+[2cc
+=-
+2cc]
+2b
+1a
+=-
+1g;
+!!page 82r
+2cc
+2dd
+=-
+1ee
+2ff
+[2dd
+=-
+4dd]
+4cc
+2dd
+1ee
+=-
+0ee
+==
+*-
+!!title: @{OTL}, @{GTL}: @{pag}, ed. @{ENC}
+!!!pag: pp. 81v-82r
+!!!GTL: Hymnbook A
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2015-04-12
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F

@@ -1,0 +1,77 @@
+!!!COM: Anonim
+!!!CDT: [?]
+!!!OTL@@POL: Tobie nad pomÿsł
+!!!TXO: Polish
+!!!ODT: 
+!!!GTL: Hymnbook A
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	1
+**kern
+*staff1
+*I"[Canto]
+=1-
+*oclefC1
+*clefG2
+*k[]
+*met(c|)
+*M2/1
+1a
+1b
+=2
+1cc
+4a
+2cc
+4b
+=3
+4a
+4g
+2a
+2g
+2g
+=4
+2a
+2a
+1b
+=5
+1a
+1f#;
+!!page 94r
+=6
+1a
+2cc
+2cc
+=7
+1cc
+1cc
+=8
+2.a
+4a
+2b-
+[2a
+=9
+2a]
+2g
+1a;
+=10
+1a
+2b-
+2g
+=11
+1a
+1f
+==
+*-
+!!title: @{OTL}, @{GTL}: @{pag}, ed. @{ENC}
+!!!pag: pp. 93v-94r
+!!!GTL: Hymnbook A
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F

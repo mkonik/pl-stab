@@ -1,0 +1,137 @@
+!!!OTL: Christus qui genitus
+**kern
+*staff1
+=--
+*clefC1
+*k[]
+*met(c)
+*M4/4
+2c
+2c
+1c
+=-
+2e
+2e
+1e
+=-
+2f
+2f
+1f
+=-
+2e
+2e
+1e
+=-
+2e
+2f
+2g
+2a
+=-
+2e
+2f
+2g
+2a
+=-
+2f
+2f
+2f
+2f
+!!linebreak:original
+=-
+2.g
+4f
+2e
+2d
+=-
+!LO:TX:Y=-35:t=P
+1c
+1d
+=-
+!LO:TX:Y=-36:t=P
+2f
+2f
+2f
+2f
+=-
+!LO:TX:Y=127:t=P
+2.g
+4f
+2e
+2d
+=-
+!LO:TX:Y=-34:t=P
+1c
+1d
+=-
+!LO:TX:Y=-35:t=P
+0c
+=-
+!LO:TX:Y=-37:t=P
+1c
+2e
+2f
+=-
+!LO:TX:Y=-32:t=P
+1e
+1g
+=-
+1c
+2e
+2f
+=-
+!LO:TX:Y=-34:t=P
+!LO:TX:Y=-35:t=P
+1e
+1g
+!!linebreak:original
+=-
+2.c
+4d
+2e
+2f
+=-
+2.e
+4f
+2g
+1f
+2e
+1d
+1c
+=-
+!LO:TX:Y=-35:t=P
+2.c
+4d
+2e
+2f
+=-
+2.e
+4f
+2g
+1f
+2e
+1d
+=-
+0c
+=-=
+*-
+!!title: @{OTL}, @{GTL}, ed. @{ENC}
+!!!pag:
+!!!GTL: Hymnbook C
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2015-0m-dd
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F
+!!!COM: Anonim
+!!!CDT: [?]
+!!!TXO: Polish
+!!!ODT: 
+!!!GTL: Hymnbook C
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	1

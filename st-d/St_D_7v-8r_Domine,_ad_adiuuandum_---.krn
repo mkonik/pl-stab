@@ -1,0 +1,122 @@
+!!!OTL: Domine, ad adiuuandum 
+**kern
+*staff1
+=1-
+*clefF3
+*k[]
+1.c
+2c\
+1A
+1G
+=2
+2c\
+2c\
+1F
+2G\
+1A
+2D/
+=3
+0A
+0G
+=4
+!LO:TX:Y=85:t=P
+0C
+!!linebreak:original
+=5
+1G
+2G\
+2G\
+=6
+!LO:TX:Y=-37:t=P
+!LO:TX:Y=-33:t=P
+!LO:TX:Y=-37:t=P
+!LO:TX:Y=118:t=P
+1F
+2G\
+2G\
+2.c\
+4B\
+2A\
+2A\
+=7
+!LO:TX:Y=-35:t=P
+!LO:TX:Y=-35:t=P
+1G
+1c
+2F\
+1A
+2A\
+=8
+2G\
+2C/
+1G
+1C
+=9
+!!linebreak:original
+1c
+=10
+!LO:TX:Y=-45:t=P
+2c\
+1A
+2E/
+2A\
+2A\
+2.G\
+4G\
+=11
+!LO:TX:Y=-45:t=P
+!LO:TX:Y=-44:t=P
+!LO:TX:Y=-45:t=P
+2C/
+2c\
+2c\
+2B-\
+0A
+=12
+!LO:TX:Y=-46:t=P
+!LO:TX:Y=-45:t=P
+0G
+1C
+!!linebreak:original
+=13
+!LO:TX:Y=-37:t=P
+1G
+=14
+!LO:TX:Y=-39:t=P
+!LO:TX:Y=-40:t=P
+2G\
+1c
+2c\
+2G\
+1A
+2F\
+=15
+!LO:TX:Y=-42:t=P
+1G
+1A
+0G
+=16
+0C
+==
+*-
+!!title: @{OTL}, @{GTL}, ed. @{ENC}
+!!!pag:
+!!!GTL: Hymnbook D
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2015-0m-dd
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F
+!!!COM: Anonim
+!!!CDT: [?]
+!!!TXO: Polish
+!!!ODT: 
+!!!GTL: Hymnbook D
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	1

@@ -1,0 +1,77 @@
+!!!OTL: Iesum paruulum
+**kern
+*staff1
+=1-
+*clefF4
+*k[b-]
+*met(c|)
+*M2/2
+1F
+1F
+=2
+2D\
+2F\
+2C/
+2D\
+=3
+0C
+=4
+1C
+1F
+=5
+1BB-
+1F
+=6
+2G\
+2E\
+2F\
+2D\
+=7
+0C
+=8
+!!linebreak:original
+1F
+1F
+=9
+1F
+1F
+=10
+2G\
+1E
+2F\
+=11
+1C
+1D
+=12
+1F
+2C/
+2D\
+=13
+2E\
+2F\
+1C
+=14
+0F
+==
+*-
+!!title: @{OTL}, @{GTL}, ed. @{ENC}
+!!!pag:
+!!!GTL: Hymnbook D
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2015-0m-dd
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F
+!!!COM: Anonim
+!!!CDT: [?]
+!!!TXO: Polish
+!!!ODT: 
+!!!GTL: Hymnbook D
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	1

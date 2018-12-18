@@ -1,0 +1,64 @@
+!!!COM: Anonim
+!!!CDT: [?]
+!!!OTL@@LAT: Florent florent lilia
+!!!TXO: Latin
+!!!ODT: 
+!!!GTL: Hymnbook A
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	1
+**kern
+*staff1
+*I"[Canto]
+=1-
+*oclefC1
+*clefG2
+*k[b-]
+!*met(c|)
+*M2/1
+1cc
+1dd
+=2
+1cc
+1g
+=3
+2b-
+2a
+1f
+=4
+1a
+1f
+=5
+1e
+1f
+=6
+2b-
+2a
+1f
+=7
+1a
+[1g
+=8
+2g]
+2a
+1f
+=9
+1e
+[1f
+=10
+0f]
+==
+*-
+!!title: @{OTL}, @{GTL}: @{pag}, ed. @{ENC}
+!!!pag: p. 20r
+!!!GTL: Hymnbook A
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2014-09-09
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F

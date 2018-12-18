@@ -1,0 +1,101 @@
+!!!COM: Anonymous
+!!!CDT: [?]
+!!!OTL: Salve cordis gaudium
+!!!TXO: Latin
+!!!ODT: 
+!!!GTL: Hymnbook E
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	3
+**kern	**text	**kern	**text	**kern	**text
+*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Basso	*	*I"Canto II	*	*I"Canto I	*
+=1-	=1-	=1-	=1-	=1-	=1-
+*clefF4	*	*clefG2	*	*clefG2	*
+*k[b-]	*	*k[b-]	*	*k[b-]	*
+*met(c|)	*	*met(c|)	*	*met(c|)	*
+*M2/2	*	*M2/2	*	*M2/2	*
+4.C	.	4.cc	Sal-	4.ee-	Sal-
+8BBn	h	8dd	-ve	8ff	-ve
+4C	.	4ee-	cor-	4gg	cor-
+4F	j	4cc	-dis	4ee-	-dis
+=2	=2	=2	=2	=2	=2
+4.G	A	4.bn	gau-	4.dd	gau-
+8G	.	8a	-di-	8cc	-di-
+2G	.	2b	-um	2dd	-um
+=3	=3	=3	=3	=3	=3
+8A-L	.	8ccL	sal-	8ee-L	sal-
+8GJ	.	16b#L	.	16ddL	.
+.	.	16ccJJ	.	16ee-JJ	.
+4F	nk`````bj	8.ddL	-ve	8.ffL	-ve
+.	.	16ccJk	.	16ee-Jk	.
+4G	vA	4cc	Je-	2dd	Je-
+4GG	c	4bn	.	.	.
+=4	=4	=4	=4	=4	=4
+2C	.	2cc	-su	2cc	-su
+4.G	.	4.g	Pe-	4.b-	Pe-
+8F#	h	8a	-cto-	8cc	-cto-
+=5	=5	=5	=5	=5	=5
+4G	.	4b-	-ris	4dd	-ris
+4C	j	4g	in-	4b-	in-
+4.D	A	4.f#	-cen-	4.a	-cen-
+8D	.	8f#	-di-	8g	-di-
+=6	=6	=6	=6	=6	=6
+2D	.	2f#	-um	2a	-um
+8E-L	.	8gL	sal-	8b-L	sal-
+8DJ	.	16f#L	.	16aL	.
+.	.	16gJJ	.	16b-JJ	.
+4C	.	8.aL	-ve	8.ccL	-ve
+.	.	16gJk	.	16b-Jk	.
+=7	=7	=7	=7	=7	=7
+2D	.	8f#L	Je-	8aL	Je-
+.	.	16gL	.	16b-L	.
+.	.	16aJJ	.	16ccJJ	.
+.	.	8.gL	.	8.b-L	.
+.	.	16f#Jk	.	16aJk	.
+2GG	.	2g	-su	2g	-su
+=8	=8	=8	=8	=8	=8
+4.C	.	4.cc	A-	4.ee-	A-
+8BBn	h	8dd	-ni-	8ff	-ni-
+4C	.	4ee-	-mae	4gg	-mae
+4F	j	4cc	prae-	4ee-	prae-
+=9	=9	=9	=9	=9	=9
+4.G	.	4.bn	-si-	4.dd	-si-
+8F#	.	8a	-di-	8cc	-di-
+2G	.	2b	-um	2dd	-um
+=10	=10	=10	=10	=10	=10
+8A-L	.	8ccL	sal-	8ee-L	sal-
+8GJ	.	16b-L	.	16ddL	.
+.	.	16ccJJ	.	16ee-JJ	.
+4F	nk`````bj	8.ddL	-ve	8.ffL	-ve
+.	.	16ccJk	.	16ee-Jk	.
+4G	f	4cc	Je-	2dd	Je-
+4GG	d	4bn	.	.	.
+=11	=11	=11	=11	=11	=11
+2C	.	2cc	-su	2cc	-su
+4BBn	K	4dd	Bo-	4ff	Bo-
+4BB	h	4dd	-ne	4ff	-ne
+=12	=12	=12	=12	=12	=12
+4C	.	8ccL	sal-	8ee-	.
+.	.	8bniJ	.	8dd	sal-
+4F	nk`````bj	8.ddL	-ve	8.ffL	-ve
+.	.	16ccJk	.	16ee-Jk	.
+4G	f	8ccL	Je-	2dd	Je-
+.	.	16ddL	.	.	.
+.	.	16aJJ	.	.	.
+4GG	cg	4b	.	.	.
+=13	=13	=13	=13	=13	=13
+1C	A	1cc	-su.	1cc	-su.
+==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-
+!!!GTL: Hymnbook E
+!!!EFL: 77/117
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Translated from MusicXML and edited by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F

@@ -1,0 +1,173 @@
+!!!OTL: Ex virgine nunc Maria
+**kern
+*staff1
+=1-
+*clefF4
+*k[b-]
+1C
+1F
+=2
+1C
+1F
+=3
+2F\
+2C/
+1D
+=4
+1D
+0AA
+!!linebreak:original
+=5
+1D
+1F
+=6
+1F
+1F
+=7
+1F
+1C
+=8
+1C
+1D
+1C
+=9
+1D
+2AA/
+2D\
+1AA
+!!linebreak:original
+=10
+1D
+2AA/
+2FF/
+=11
+1C
+1D
+=12
+1AA
+1BB-
+=13
+1AA
+1DD
+=14
+1D
+2AA/
+2D\
+=15
+!LO:TX:Y=-199:t=P
+1C
+1D
+=16
+!LO:TX:Y=-196:t=P
+!LO:TX:Y=-38:t=P
+1AA
+1AA
+1D
+=17
+!!linebreak:original
+1D
+1D
+=18
+1C
+1BB-
+=19
+1AA
+1BB-
+=20
+1AA
+2E\
+2F\
+=21
+1E
+1AA
+=22
+!!linebreak:original
+1D
+2AA/
+2BB-/
+=23
+1AA
+1D
+=24
+1C
+1D
+=25
+1AA
+1DD
+=26
+1D
+2AA/
+2BB-/
+=27
+1AA
+1D
+=28
+1C
+1C
+1D
+!!pagebreak:original
+=29
+1r
+1r
+1D
+=30
+0C
+1C
+=31
+0C
+1C
+=32
+0C
+1C
+=33
+0C
+1C
+=34
+0D
+1D
+=35
+1C
+0D
+0AA
+!!linebreak:original
+=36
+1AA
+0C
+1C
+=37
+0D
+1D
+=38
+0C
+1C
+=39
+0C
+1C
+=40
+1D
+0AA
+=41
+0D
+==
+*-
+!!title: @{OTL}, @{GTL}, ed. @{ENC}
+!!!pag:
+!!!GTL: Hymnbook D
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2015-0m-dd
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F
+!!!COM: Anonim
+!!!CDT: [?]
+!!!TXO: Polish
+!!!ODT: 
+!!!GTL: Hymnbook D
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	1

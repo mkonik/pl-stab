@@ -1,0 +1,76 @@
+!!!OTL: Infantulus paruulus
+**kern
+*staff1
+=1-
+*clefF4
+*k[b-]
+*met(c|)
+*M2/2
+2.F\
+4E\
+2D\
+2BB-/
+1E-
+1D
+=2
+1BB-
+1F
+1F
+1E-
+=3
+2.D\
+4E\
+2F\
+2BB-/
+1C
+1D
+=4
+0GG
+=5
+!!linebreak:original
+2G\
+2F\
+2BB-/
+2BB-/
+=6
+!LO:TX:Y=-37:t=P
+1F
+1C
+2D\
+2G\
+2F\
+2BB-/
+=7
+1C
+4FF/
+4GG/
+4AA/
+4BB-/
+2C/
+2D\
+1C
+=8
+0FF
+==
+*-
+!!title: @{OTL}, @{GTL}, ed. @{ENC}
+!!!pag:
+!!!GTL: Hymnbook D
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2015-0m-dd
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F
+!!!COM: Anonim
+!!!CDT: [?]
+!!!TXO: Polish
+!!!ODT: 
+!!!GTL: Hymnbook D
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	1

@@ -1,0 +1,111 @@
+!!!OTL: Cantemus domino
+**kern
+*staff1
+=1-
+*clefF3
+*k[]
+1C
+2C/
+2C/
+2C/
+2C/
+1G;
+=2
+1G
+2c\
+1F
+2G\
+1C
+1C
+!!linebreak:original
+=3
+2G\
+2A\
+2G\
+2A\
+1G
+1C;
+=4
+1C
+2C/
+2C/
+1C
+1r
+!!linebreak:original
+=5
+2.F\
+4F\
+2G\
+2A\
+1G
+1C
+=6
+2G\
+2C/
+2G\
+2A\
+1G
+1C
+=7
+!!linebreak:original
+2F\
+2F\
+2G\
+2A\
+1G
+1C
+=8
+1r
+1C
+1G
+1G
+=9
+1A
+1A
+1G
+1C;
+!!linebreak:original
+=10
+1G
+2E/
+2E/
+2A\
+2A\
+1G
+=11
+1F
+1C
+1G
+1A
+=12
+1G
+1C
+1G
+1A
+=13
+1G
+1G
+0C
+==
+*-
+!!title: @{OTL}, @{GTL}, ed. @{ENC}
+!!!pag:
+!!!GTL: Hymnbook D
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2015-0m-dd
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F
+!!!COM: Anonim
+!!!CDT: [?]
+!!!TXO: Polish
+!!!ODT: 
+!!!GTL: Hymnbook D
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	1

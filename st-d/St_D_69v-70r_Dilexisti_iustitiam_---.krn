@@ -1,0 +1,117 @@
+!!!OTL: Dilexisti iustitiam 
+**kern
+*staff1
+=1-
+*clefC4
+*k[b-]
+1B-
+2F/
+2F/
+1B-
+=2
+1.F
+2B-\
+1F
+1G
+=3
+1B-
+2F/
+2F/
+1G
+1F
+=4
+!LO:TX:Y=119:t=P
+1.G
+2G/
+1F
+1B-
+=5
+!!linebreak:original
+1.B-
+2F/
+2G/
+2F/
+1B-
+=6
+!LO:TX:Y=-44:t=P
+!LO:TX:Y=-45:t=P
+!LO:TX:Y=-45:t=P
+1F
+1G
+2F/
+2F/
+1G
+1F
+=7
+1B-
+2F/
+2F/
+2B-\
+2B-\
+1F
+1G
+=8
+!!linebreak:original
+1.B-
+2B-\
+2F/
+2B-\
+1G
+1F
+1G
+=9
+!LO:TX:Y=-206:t=P
+!LO:TX:Y=115:t=P
+2r
+2G/
+1G
+1.F
+2F/
+=10
+!LO:TX:Y=114:t=P
+1B-
+0c
+0G
+!!linebreak:original
+=11
+!LO:TX:Y=-46:t=P
+!LO:TX:Y=-45:t=P
+1c
+2G/
+2F/
+2G/
+2F/
+2G/
+2F/
+1F
+=12
+!LO:TX:Y=-46:t=P
+2G/
+2F/
+2B-\
+2F/
+1G
+0F
+==
+*-
+!!title: @{OTL}, @{GTL}, ed. @{ENC}
+!!!pag:
+!!!GTL: Hymnbook D
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2015-0m-dd
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F
+!!!COM: Anonim
+!!!CDT: [?]
+!!!TXO: Polish
+!!!ODT: 
+!!!GTL: Hymnbook D
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	1

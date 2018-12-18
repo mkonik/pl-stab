@@ -1,0 +1,110 @@
+!!!COM: Anonim
+!!!CDT: [?]
+!!!OTL@@POL: Psallite senes nunc nato regi
+!!!TXO: Latin
+!!!ODT: 
+!!!GTL: Hymnbook A
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	1
+**kern
+*staff1
+*I"[Canto]
+*oclefC1
+*clefG2
+*k[b-]
+*met(c|)
+*M2/1
+=-
+1a
+2a
+2f
+=-
+2b-
+2a
+1r
+=-
+0r
+=-
+2cc
+2a
+2b-
+2g
+=-
+2a
+2f
+2f
+2e
+=-
+2f
+2f
+2f
+2g
+=-
+2a
+2a
+2b-
+2b-
+=-
+2a
+2cc
+2cc
+2b-
+=-
+2cc
+2a
+2b-
+2g
+=-
+2a
+2f
+2f
+2e
+=-
+2f
+2f
+2g
+2f
+=-
+2e
+2f
+2g
+2f
+=-
+2e
+2f
+2g
+2f
+=-
+2e
+2f
+2g
+2f
+=-
+2e
+2f
+2g
+2a
+=-
+1b-
+2a
+2f
+=-
+2f
+2e
+0f
+==
+*-
+!!title: @{OTL}, @{GTL}: @{pag}, ed. @{ENC}
+!!!pag: p. 28v
+!!!GTL: Hymnbook A
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2015-04-18
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F

@@ -1,0 +1,87 @@
+!!!COM: Anonim
+!!!CDT: [?]
+!!!OTL@@LAT: Veni creator spiritus
+!!!TXO: Latin
+!!!ODT: 
+!!!GTL: Hymnbook A
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	1
+**kern
+*staff1
+*I"[Canto]
+=1-
+*oclefC2
+*clefG2
+!*k[b-]
+!*met(c|)
+*M2/1
+!LO:TX:Y=0:Z=20:t=page 98v; over staff: Altus.
+1d
+1d
+=-
+1d
+1c
+=-
+2c
+2d
+1c
+=-
+1d
+1d
+=-
+1e
+1d
+=-
+2e
+2e
+2d
+2d
+=-
+1e
+1d
+=-
+!LO:TX:Y=0:Z=20:t=page 99r
+1d
+2d
+2d
+=-
+1d
+2e
+2f
+=-
+1e
+1f
+=-
+1f
+2f
+2f
+=-
+1e
+1f
+=-
+2f
+2f
+0f
+=-
+1f
+1f
+=-
+2.g
+4a
+1b
+==
+*-
+!!title: @{OTL}, @{GTL}: @{pag}, ed. @{ENC}
+!!!pag: pp. 98v-99r
+!!!GTL: Hymnbook A
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2015-04-19
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F

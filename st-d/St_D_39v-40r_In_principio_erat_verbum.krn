@@ -1,0 +1,138 @@
+!!!OTL: In principio erat verbum
+**kern
+*staff1
+=1-
+*clefF4
+*k[b-]
+*met(c|)
+*M2/2
+1.G
+2G\
+=2
+1G
+1G
+=3
+0G
+=4
+1D
+1E
+=5
+0D
+=6
+0C
+=7
+1F
+1E
+=8
+0D
+=9
+0GG
+=10
+!!linebreak:original
+1GG
+1GG
+=11
+1G
+1G
+=12
+1G
+1G
+=13
+1F
+0D
+=14
+0E
+=15
+!LO:TX:Y=-44:t=P
+0D
+=16
+!!linebreak:original
+0C
+=17
+1C
+1C
+=18
+1G
+1F
+=19
+0E
+=20
+0D
+=21
+!LO:TX:Y=-40:t=P
+0BB-
+!!linebreak:original
+=22
+1BB-
+1BB-
+=23
+2BB-/
+2BB-/
+2BB-/
+2BB-/
+=24
+0BB-
+=25
+1F
+1G
+=26
+0D
+=27
+!LO:TX:Y=-41:t=P
+0GG
+=28
+!!linebreak:original
+0G
+=29
+2D\
+2D\
+1G
+=30
+0G
+=31
+1D
+1F
+=32
+1E
+0D
+=33
+!!pagebreak:original
+1r
+1BB-
+=34
+1BB-
+1BB-
+=35
+0F
+=36
+1F
+0G
+1D
+=37
+1E-
+0D
+=38
+0GG
+==
+*-
+!!title: @{OTL}, @{GTL}, ed. @{ENC}
+!!!pag:
+!!!GTL: Hymnbook D
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2015-0m-dd
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F
+!!!COM: Anonim
+!!!CDT: [?]
+!!!TXO: Polish
+!!!ODT: 
+!!!GTL: Hymnbook D
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	1

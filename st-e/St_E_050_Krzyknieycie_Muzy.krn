@@ -1,0 +1,103 @@
+!!!COM: Anonim
+!!!CDT: [?]
+!!!OTL: Krzyknieÿcie Muzy
+!!!TXO: Polish
+!!!ODT: 
+!!!GTL: Hymnbook E
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	3
+**kern	**kern	**text	**text	**kern	**text	**text
+*staff3	*staff2	*staff2	*staff2	*staff1	*staff1	*staff1
+*I"Basso	*I"Canto II	*	*	*I"Canto I	*	*
+=1-	=1-	=1-	=1-	=1-	=1-	=1-
+*clefF4	*clefG2	*	*	*clefG2	*	*
+*k[]	*k[]	*	*	*k[]	*	*
+*M3/4	*M3/4	*	*	*M3/4	*	*
+4C	4ee	Krzyk-	Wi-	4gg	Krzyk-	Wi-
+4C	4ee	-nij-	-taj-	4gg	-nij-	-taj-
+4F	4ff	-cie	-cie	4aa	-cie	-cie
+=2	=2	=2	=2	=2	=2	=2
+4C	8eeL	mu-	goś-	8ggL	mu-	goś-
+.	8ffJ	.	.	8aaJ	.	.
+8EL	8eeL	-zy	-cia	8ggL	-zy	-cia
+8FJ	8ddJ	.	.	8ffJ	.	.
+4G	8ccL	O-	kra-	8eeL	O-	kra-
+.	8bJ	.	.	8ddJ	.	.
+=3	=3	=3	=3	=3	=3	=3
+4F	8aL	-lim-	-ju	8ccL	-lim-	-ju
+.	8gJ	.	.	8bJ	.	.
+4D	8aL	-pu	nie-	8ccL	-pu	nie-
+.	8bJ	.	.	8ddJ	.	.
+4C	4cc	ziem-	-bie-	8eeL	ziem-	-bie-
+.	.	.	.	8ffJ	.	.
+=4	=4	=4	=4	=4	=4	=4
+2GG	2b	-skie-	-skie-	2dd	-skie-	-skie-
+4C	4cc	-go	-go	4cc	-go	-go
+!!linebreak:original
+=5:|!	=5:|!	=5:|!	=5:|!	=5:|!	=5:|!	=5:|!
+4G	4b	piej-	.	4dd	piej-	.
+4C	8aL	-cie-	.	8ccL	-cie-	.
+.	8gJ	.	.	8bJ	.	.
+4G	8f#L	-sy-	.	8aL	-sy-	.
+.	8gJ	.	.	8bJ	.	.
+=6	=6	=6	=6	=6	=6	=6
+2D	2f#	-re-	.	2a	-re-	.
+4GG	4g	-ny	.	4g	-ny	.
+=7	=7	=7	=7	=7	=7	=7
+4GG	8gL	bo	.	4dd	bo	.
+.	8f#J	.	.	.	.	.
+4C	4e	nie-	.	8ccL	nie-	.
+.	.	.	.	8bJ	.	.
+4G	4g	-ma	.	8aL	-ma	.
+.	.	.	.	8bJ	.	.
+=8	=8	=8	=8	=8	=8	=8
+2D	2f#	ce-	.	2a	ce-	.
+4GG	4g	-ny	.	4g	-ny	.
+=9!|:	=9!|:	=9!|:	=9!|:	=9!|:	=9!|:	=9!|:
+4C	4e	kr&oacute;l	.	4g	kr&oacute;l	.
+4c	4f#	nie-	.	4a	nie-	.
+4B	4g#	-ba	.	4b	-ba	.
+=10	=10	=10	=10	=10	=10	=10
+!!linebreak:original
+4A	8aL	i	.	8ccL	i	.
+.	8gJ	.	.	8bJ	.	.
+4E	8aL	.	.	8ccL	.	.
+.	8ccJ	.	.	8eeJ	.	.
+4F	8bL	.	.	8ddL	.	.
+.	8aJ	.	.	8ccJ	.	.
+=11	=11	=11	=11	=11	=11	=11
+4G	8bL	zie-	.	8ddL	zie-	.
+.	8aJ	.	.	8ccJ	.	.
+4A	8bL	.	.	8ddL	.	.
+.	8ddJ	.	.	8ffJ	.	.
+4B	8ccL	-mi	.	8eeL	-mi	.
+.	8bJ	.	.	8ddJ	.	.
+=12	=12	=12	=12	=12	=12	=12
+4.c	4.cc	kr&oacute;l	.	4.ee	kr&oacute;l	.
+8B	8dd	nie-	.	8ff	nie-	.
+8AL	4ee	-ba	.	4gg	-ba	.
+8GJ	.	.	.	.	.	.
+=13	=13	=13	=13	=13	=13	=13
+4F	8ddL	i	.	8ffL	i	.
+.	8ccJ	.	.	8eeJ	.	.
+4G	4.cc	zie-	.	2dd	zie-	.
+4GG	.	.	.	.	.	.
+.	8b	.	.	.	.	.
+=14	=14	=14	=14	=14	=14	=14
+2.C	2.cc	-mi.	.	2.cc	-mi.	.
+==:|!	==:|!	==:|!	==:|!	==:|!	==:|!	==:|!
+*-	*-	*-	*-	*-	*-	*-
+!!title: @{OTL}, @{GTL}: @{pag}, ed. @{ENC}
+!!!pag: pp. 54v-55r
+!!!GTL: Hymnbook E
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2015-05-06
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F
